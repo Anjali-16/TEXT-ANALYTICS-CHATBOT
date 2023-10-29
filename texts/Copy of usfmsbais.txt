@@ -1,0 +1,1913 @@
+Program: Business Analytics and Information Systems, M.S. - University of South Florida - Acalog ACMS™
+Javascript is currently not supported, or is disabled by this browser. Please enable Javascript for full functionality.
+Skip to Content
+Skip to Main Content
+Skip to Main Content
+University of South Florida 
+Show 
+Search 
+Search for:   
+                    Main Navigation
+Show 
+Menu
+                                Give Now
+Show 
+                                    About USF
+                                                About USF
+Overview
+Mission and Goals
+History and Traditions
+Facts and Statistics
+Economic Impact
+Student Consumer Information
+Leadership
+Accreditation
+Work at USF
+Visit USF
+Show 
+                                    Academics
+                                                Academics
+                                                With a proven track record of commitment to student success, USF offers a path for every student. Our academic programs strive to meet the needs of individual learners and turn knowledge and experience into career preparedness. 
+Overview
+Colleges
+Undergraduate Majors
+Graduate Programs
+Courses and Calendars
+Undergraduate and Graduate Studies
+Academic Resources
+Libraries
+Show 
+                                    Admissions
+                                                Admissions
+Overview
+Freshmen
+Transfer
+Graduate
+International
+USF Health
+Show 
+                                    Locations
+                                                Locations
+Overview
+Tampa Campus
+St. Petersburg Campus
+Sarasota-Manatee Campus
+Instructional Sites
+Show 
+                                    Campus Life
+                                                Campus Life
+Overview
+Campus Resources and USF Bookstore
+Housing and Dining
+Technology Resources
+Financial Resources
+Health and Safety
+Internships and Student Employment
+Activities and Programs
+Arts and Culture
+Athletics and Fitness
+Show 
+                                    Research
+                                                Research
+Overview
+Research & Innovation
+Student Research
+Students
+Faculty
+Staff
+Alumni
+Parents & Family
+MyUSF
+Directory
+University of South Florida
+Oct 13, 2023
+2020-2021 Graduate Catalog 
+Select a Catalog
+ University of South Florida Catalogs & Archives
+2023-2024 Graduate Catalog
+2023-2024 Undergraduate Catalog
+2022-2023 Graduate Catalog [ARCHIVED CATALOG]
+2022-2023 Undergraduate Catalog [ARCHIVED CATALOG]
+2021-2022 Graduate Catalog [ARCHIVED CATALOG]
+2021-2022 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Catalog [ARCHIVED CATALOG]
+2020-2021 Undergraduate Catalog [ARCHIVED CATALOG]
+2019-2020 Graduate Catalog [ARCHIVED CATALOG]
+2019-2020 Undergraduate Catalog [ARCHIVED CATALOG]
+2020-2021 Graduate Catalog [ARCHIVED CATALOG]
+Global Search
+Catalog Search
+Choose Search Location
+Select an option
+Courses
+Programs
+Hierarchy Items
+Other Content
+Entire Catalog
+Entire Catalog
+Search Keyword Field
+Search
+Whole Word/Phrase
+Advanced Search
+Catalog Navigation
+Catalog Home
+Welcome to Graduate Studies
+About USF
+Academic Calendar
+Colleges
+Graduate Majors (A-Z)
+Graduate Certificates 
+Online Programs
+Bachelor’s/Master’s Pathways
+Concurrent Degrees
+Course Information
+Course Descriptions
+Admissions
+Graduate Faculty 
+General Information
+Financial Information
+Academic Policies
+Degree Requirements
+Graduation and Postdoctoral Affairs
+Updates for 2020-2021
+Archives and Print Copies
+aPrint (opens a new window)Help (opens a new window)
+2020-2021 Graduate Catalog [ARCHIVED CATALOG]
+Business Analytics and Information Systems, M.S.
+ Return to: Graduate Majors and Certificates by College
+Priority Admission Application Deadlines: http://www.grad.usf.edu/majors
+This program is offered partially online.
+Concentrations:
+Analytics and Business Intelligence
+Information Assurance
+Also offered as:
+track under Business Administration (Ph.D.) and application area in Business Administration (M.B.A.)
+a Bachelor’s/Master’s Pathway
+Contact Information
+College: Muma College of Business
+Department: School of Information Systems and Management (ISM)
+Contact Information: http://www.grad.usf.edu/majors
+The Master of Science (M.S.) in Business Analytics and Information Systems (BAIS) meets the needs of the marketplace for expertise in analytics, information technology and management. Highly qualified individuals with motivation for leadership in information technology and analytics are encouraged to apply for admission to this program. The major meets the needs of organizations in information services, software development, management consulting, and other sectors wherer data analytics is used in industry. An Advisory Board consisting of senior business analytics and information systems executives works closely with the department to ensure that the program stays relevant and maintains high standards.
+The major is offered in two forms – an on-campus option and a weekend executive option.
+The on-campus option is designed for students who need flexibility in their course work. Students will work with faculty to design the most effective course sequence and optional thesis/practicum /independent studies to meet the major curriculum requirements and accomplish their career goals.
+Alternately, the weekend executive option is intended for full-time working Information Technology/Information Systems/Business professionals who will pursue this degree while remaining employed. The weekend executive option is offered on a cohort basis with a pre-determined set of courses and independent study options selected by faculty based on market needs and student profiles. Students will benefit from an accelerated curriculum with a managerial and leadership approach. To get the full benefit, applicants are expected to have a minimum of 5 years of relevant work experience.
+Accreditation
+Accredited by the AACSB International – The Association to Advance Collegiate Schools of Business.
+Admission Information
+Must meet University Admission and English Proficiency requirements , as well as requirements for admission to the major, listed below. Students are admitted to the M.S./BAIS program based on the evaluation of their application in its entirety, including:
+GMAT, GRE or other standardized scores for graduate programs (e.g. MCAT, LSAT).
+For students with 5 years or more of relevant full-time work experience in Information Technology/ Information Systems/ Business Analytics in U.S., the requirement of standardized scores may be waived.
+Students requesting such waivers should provide information justifying such waivers based on the above criteria. Additional documentation may be sought when deemed appropriate by the program.
+letters of recommendations.
+statement of purpose, and
+relevant work experience.
+For applicants with a 3-year Bachelor’s Degree from an accredited institution, the following requirements need to be met in addition to those listed above: Minimum GMAT score of 650 or a minimum GRE score of at least 321 (combined verbal and quantitative), and a minimum of 25th percentile in the verbal portion of the test. When the 3-year Bachelor’s Degree is less than 120 hours from Non-Bologna Accord Institutions, a transcript evaluation from A NACES member is required to confirm equivalency.
+Curriculum RequirementsTotal Minimum Hours: 33 credit hours
+Core Requirements– 12 credit hours
+Capstone – 3 credit hours
+Concentration or Electives – 18 credit hours
+The major requires 33 hours of coursework and may be taken either full-time or part-time. Full-time students with appropriate prerequisites may be able to complete the major in one full year (3 semesters) of study. Part-time students and full-time students who need prerequisites will typically need from 1 ½ to 3 years to complete the degree.
+Prerequisites
+Incoming students are expected to have the following as prerequisites
+A course in high-level, object oriented programming language (e.g., C#, C++, Java and Python) or substantial programming experience;
+A course in Information Systems Analysis and Design or equivalent experience;
+A course in Database Systems or equivalent experience;
+A course in Statistics or equivalent professional qualification or experiences
+A course in economics, or equivalent professional qualification or experiences and
+A course in financial accounting.
+These required prerequisite courses may be taken simultaneously with courses in the M.S./BAIS major. Prerequisiite courses do not count toward the 33 credit hours of course requirements in the M.S./BAIS major.
+Students have the choice of two options:
+On-Campus Option:
+Designed for students who need flexibility in their course work, students will work early in the first semester with their major advisor to complete a formal Major Curriculum of Study meeting the Major Curriculum Requirements that will define a coherent sequence of courses to accomplish the student’s objectives. Students have choice of electives as well as the option to complete a master’s thesis or practicum project, depending upon the availability and approval of a faculty sponsor.
+Executive Weekend Option:
+Intended for full-time working Information Technology/Information Systems/Business professionals who will pursue this degree while remaining employed. Offered on a cohort basis, students will meet the Major Curriculum Requirements through a pre-determined set of courses, electives, and independent study options selected by faculty and noted on the formal Major Curriculum of Study, based on market needs and student profiles. Students will benefit from an accelerated curriculum with a managerial and leadership approach. To get the full benefit, applicants are expected to have a minimum of 5 years of relevant work experience.
+Core Requirements (12 Credit Hours)The following four courses provide an understanding of the state-of-the-art in research and practice in technical areas of Information Systems Management.
+ISM 6124 Advanced Systems Analysis and Design Credit Hours: 3ISM 6218 Advanced Database Management Credit Hours: 3ISM 6225 Distributed Information Systems Credit Hours: 3QMB 6304 Analytical Methods for Business Credit Hours: 3Capstone Course (3 Credit Hours)This course is considered the capstone of the M.S./BAIS major and as such it must be taken during one of the last two semesters of the student’s major.
+ISM 6155 Enterprise Information Systems Management Credit Hours: 3Concentration Option Requirements Students select from the following concentrations or complete 18 hours of electives.
+Analytics & Business Intelligence Concentration (18 Credit Hours)In addition to the Technical Core and Capstone courses, students must complete the following:Required Courses (12 Credit Hours)In addition, graduate students who take the required four courses for this concentration and earn an average GPA of 3.00 or higher in these courses, will receive a SAS approved Certificate in Analytics and Business Intelligence, when they use a SAS analytics package as part of some of these courses.
+Specifically, graduate students will need to use, among other tools, SAS Enterprise Miner or an equivalent SAS analytics package in the Data Mining, Statistical Data Mining and Statistical programming for Business Analytics courses. If students take at least one of the courses marked with a * as part of the analytics and business intelligence concentration, they will receive a SAS approved Certificate in Analytics and Business Intelligence.
+Students will have to complete four out of the following seven courses:
+ISM 6136 Data Mining Credit Hours: 3 *ISM 6218 Advanced Database Management Credit Hours: 3ISM 6208 Data Warehousing Credit Hours: 3ISM 6137 Statistical Data Mining Credit Hours: 3 *QMB 7566 Applied Multivariate Statistical Methods Credit Hours: 3ISM 6642 Statistical Programming for Business Analytics Credit Hours: 3 *ISM 6930 Selected Topics in MIS Credit Hours: 1-6 (3 credits for this program)ISM 6930 Selected Topics in MIS  Credit(s): 1-6 (3 credits for this program) (Big Data and Ecommerce)Electives (6 Credit Hours)To complete the Analytics and Business Intelligence concentration, students will need to meet the 33 credit hour requirement for the MS in BAIS degree program by taking graduate level electives for the program. Other electives from across the campus may also be taken to meet the 33 credit hour requirement with prior approval of the academic advisor of the program.
+Information Assurance Concentration (18 Credit Hours)In addition to the Technical Core and Capstone courses, students must complete the following:
+Required Courses (6 Credit Hours)ISM 6328 Information Security & Risk Management Credit Hours: 3ISM 6577 Decision Processes for Business Continuity and Disaster Recovery Credit Hours: 3Electives (6 Credit Hours)Any two elective courses from the set of courses listed below
+ISM 6145 Seminar on Software Testing Credit Hours: 3ISM 6316 Project Management Credit Hours: 3ISM 6124 Advanced Systems Analysis and Design Credit Hours: 3ISM 6218 Advanced Database Management Credit Hours: 3ISM 6266 Software Architecture Credit Hours: 3Electives (6 Credit Hours)To complete the Information Assurance concentration, students will need to meet the 33 credit hour requirement for the MS in BAIS degree by taking graduate level electives for the major. Other electives from across the campus may also be taken to meet the 33 credit hour requirement with prior approval of the academic advisor of the program.
+Electives (18 Credit Hours)Up to eighteen graduate level credits may be selected from additional Information Systems courses or (with prior approval by the academic advisor) other areas of specialization such as areas of Management, Decision Sciences, Computer Science, Logistics, etc. Existing Course Offerings:ISM 6124 Advanced Systems Analysis and Design Credit Hours: 3ISM 6266 Software Architecture Credit Hours: 3ISM 6145 Seminar on Software Testing Credit Hours: 3ISM 6155 Enterprise Information Systems Management Credit Hours: 3ISM 6218 Advanced Database Management Credit Hours: 3ISM 6225 Distributed Information Systems Credit Hours: 3ISM 6305 Managing the Information System Function Credit Hours: 3ISM 6442 International Aspects of Information Science Credit Hours: 3ISM 6405 Informatics and Business Intelligence Credit Hours: 3ISM 6485 Electronic Commerce Credit Hours: 3ISM 6905 Independent Study Credit Hours: 1-6ISM 6945 BAIS Internship Credit Hours: 1ISM 6930 Selected Topics in MIS Credit Hours: 1-6ISM 6316 Project Management Credit Hours: 3ISM 6136 Data Mining Credit Hours: 3ISM 6208 Data Warehousing Credit Hours: 3ISM 6056 Web Application Development Credit Hours: 3ISM 6156 Enterprise Resource Planning & Business Process Management Credit Hours: 3ISM 6328 Information Security & Risk Management Credit Hours: 3In addition, the following Special Topics are being offered:ISM 6930 Selected Topics in MIS Credit Hours: 1-6 (Multimedia Applications)ISM 6930 Selected Topics in MIS  Credit(s): 1-6 (Mainframe Technologies)ISM 6137 Statistical Data Mining Credit Hours: 3Thesis Option (6 Credit Hours)The master’s thesis option requires six credits of ISM 6971 , which count as six of the 18 BAIS elective credits. The thesis must make a well-defined contribution to the research and development in an area of Information Systems.
+ISM 6971 Thesis: Master’s Credit Hours: 2-6Practicum Option (1-6 Credit Hours)The practicum option requires an investigation of a new information technology artifact. The project typically occurs in the student’s place of employment and is jointly supervised by a faculty member and a manager in the company. One credit of ISM 6905  would be taken for each semester that the student works on a project. The practicum would count for one to six hours of the 18 hours of BAIS electives.
+Research/Project Option (1-3 Credit Hours)The research/ project option requires working on an BAIS related project that involves research or community engagement. The project is supervised by a faculty member. One to two credits of ISM 6905 would be taken for each semester that the student works on a project. The research/ project option would count for one to three hours of the 18 hours of BAIS electives.
+Comprehensive ExamIn lieu of a comprehensive exam, assessments comprising the capstone course (ISM 6155 ) fulfill the requirements for the comprehensive assessment in the program.
+Graduate Certificate OptionsNote that students in the Program can also obtain graduate certificates in (1) Compliance, Risk and Anti-Money Laundering and/or (2) Information Assurance by selecting elective courses suitably.Bachelor’s/Master’s PathwayAlso available as a Bachelor’s/Master’s Pathway  
+CloseCloseClose Return to: Graduate Majors and Certificates by College aPrint (opens a new window)Help (opens a new window)
+T
+                    USF strives to make our websites and digital content available to persons with disabilities by assuring compatibility with assistive technologies. If you are having difficulty viewing or interacting with any digital resource, you may report it by completing the Digital Access Barrier Report form.
+University of South Florida 
+Show 
+Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+USF Health
+USF Athletics
+USF Alumni
+Support USF
+USF Libraries
+USF World
+                        4202 E. Fowler Avenue
+                        Tampa, FL 33620, USA
+                        813-974-2011
+Facebook
+X
+YouTube
+LinkedIn
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+                        This website is maintained by USF Academic Catalog.
+Privacy
+Site Map
+Contact USF
+Visit USF
+Accessibility
+All catalogs © 2023 University of South Florida. Powered by the Acalog™ Academic Catalog Management System™ (ACMS™).
+MS in Business Analytics / Information Systems (MS/BAIS) | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+MS in Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+MS in Business Analytics & Information Systems
+Overview
+Show  Secondary Navigation
+Overview
+Frequently Asked Questions
+Student Spotlights
+New Student Information
+Request Information
+ATTEND INFO SESSION
+APPLY NOW
+Global Executive Option
+Faculty
+Help Desk
+Overview
+Chat with Students
+The Master of Science in Business Analytics & Information Systems prepares students
+               for growing needs in industry for expertise in business analytics, data science, data
+               engineering, and information technology across a wide range of sectors including technology,
+               banking, healthcare, consulting, energy, retail, entertainment, telecom, and many
+               others. Our graduates secure internships and jobs in companies such as Amazon, Google,
+               Microsoft, Adobe, Tesla, Samsung, McKinsey, Goldman Sachs, Cap Gemini, Booz & Company,
+               Deloitte, Citi, Bank of America, JP Morgan Chase, Capital One, SAS Institute, Amgen,
+               Verizon, Disney, Paypal, TechData, Raymond James Financial, Quicken Loans, Publix,
+               and Spectrum Brands. Starting salaries of our graduates are typically in the $100,000-125,000
+               range, with higher salaries for jobs on the West Coast.
+We offer a strong industry-relevant curriculum emphasizing technology skills such
+               as business analytics, machine/deep learning, SQL and NoSQL databases, agile methods,
+               coding and scripting, networks and security, cloud computing, and big data. An advisory
+               board consisting of senior business leaders and information systems executives works
+               closely with the department to ensure that the program stays relevant and maintains
+               high standards. Classes in the program are taught by a world-class faculty with PhD
+               degrees from Harvard Business School, Princeton University, Northwestern University,
+               University of Chicago, University of Maryland, University of Texas at Austin, Purdue
+               University, University of Michigan, New York University, University of Pennsylvania,
+               Indiana University, Georgia Tech, University of Arizona, and many others. Students
+               have the option of working in full-time or part-time internships and customized independent
+               study opportunities with professors as part of the program.
+The program also offers a suite of extra-curricular activities to complement our curriculum
+               and to help our students improve their technology skills, internship and job placement
+               potential, and career success. These activities include free technology bootcamps,
+               certification programs, resume workshops, LinkedIn workshops, interview workshops,
+               career fairs, and many others. Outstanding students will also have the opportunity
+               to participate in practice center projects (mentored internships managed by the department)
+               and get employment opportunities as teaching assistants or graduate research assistants
+               throughout USF campus. 
+ADMISSIONS
+Admission to our program is extremely competitive. For the 2022 academic year, we
+               received over 3,000 applications and admitted only 300 students. Although we admit
+               students in Fall and Spring semesters, most or all of our seats are often filled in
+               the Fall semester. We evaluate applications on a rolling basis and close the process
+               when our student intake capacity is reached. Hence, interested international applicants
+               are advised to apply early for the Fall semester because there is no guarantee that
+               there will be seats available in Spring. Spring applicants may request that they be
+               considered for Fall admission if no seats are available for Spring.
+For the Fall semester, the early deadline for application is February 1 for international students and July 1 for domestic students. You may continue to apply after that and consideration may
+               be given depending on the availability of seats.  For international applicants, we
+               try to make our final admission decisions by April to give them sufficient time to
+               get visa appointments at their local U.S. consulate or embassy. For the Spring semester, our application deadline is August 1 for international students and November 1 for domestic students.  However, we admit most applicants in the Fall, and the number
+               of applicants we admit in the Spring is in general very limited. 
+Our admission decisions are based on a “portfolio criteria” that includes the following
+               components. Please note that incomplete applications (e.g., missing GRE scores, unless
+               explicitly waived by us) will NOT be processed, until they are completed:
+ Fully completed application, including payment of application fee
+We do not entertain requests for application fee waivers.
+A four-year bachelor’s degree from an accredited university
+We prefer applicants with technology majors such as computer science, engineering,
+                        etc., though we may also consider non-technology majors if they have demonstrated
+                        solid technology skills or have technology-focused work experience.
+Applicants with a 3-year bachelor’s degree from an accredited institution must also
+                        meet the following requirements: (1) Minimum GMAT score of 650 or a minimum GRE score
+                        of 321 (combined verbal and quantitative), with a minimum of 25th percentile in the
+                        verbal portion of the test, and (2) if the 3-year bachelor’s degree is less than 120
+                        hours from Non-Bologna Accord Institutions, a transcript evaluation from a NACES member
+                        is required to confirm equivalency.
+GMAT or GRE scores
+We strongly encourage in-center GRE/GMAT tests and discourage at-home or online tests.
+The GRE/GMAT requirement may be waived for applicants with 3 years or more of relevant
+                        full-time work experience in information technology, information systems, or business
+                        analytics in the United States. Working in a foreign country for a U.S. client will NOT qualify for this waiver.
+Applicants with a Bachelor’s degree in information technology, information systems,
+                        or business analytics from USF or equivalent U.S. universities with a GPA of 3.5 or
+                        higher may also request a waiver of the GRE/GMAT exam.
+Applicants requesting such waivers should provide appropriate documentation justifying
+                        such waivers based on the above criteria. Waiver requests will be evaluated on a case
+                        by case basis.
+International applicants are NOT eligible for GRE/GMAT waiver irrespective of length of work experience.
+Relevant work experience in information technology, information services, business
+                  analytics, or related sectors.
+This is a very important component of our admissions criteria. We will consider students
+                        with extensive industry experience, even if they have less than desired GMAT or GRE
+                        scores.
+Two letters of recommendations.
+A completed information form that we will send out upon receipt of your application.
+In addition, all applicants must meet USF’s Admission and English Proficiency requirements.
+               For international applicants, this means TOEFL scores, although we do not consider
+               TOEFL score as part of our admission criteria. 
+Admission Process
+We get several thousands of applications, which are first reviewed by our Office of
+               Graduate Admissions and then by our MS-BAIS program on a first come, first served
+               basis. The admission decision usually takes 1.5 to 2 months, and visas for international
+               students may take an additional 3 to 4 months, depending on appointment availability
+               at your local consulate. Our admission decisions are first come, first served, and
+               will close whenever we reach our intake capacity for the academic year. Our admissions
+               process is as follows:
+1. Examine our application criteria above to determine your suitability for our MS-BAIS
+               program. If you wish to apply, submit your application, complete with GRE/GMAT scores,
+               college transcripts, and other necessary details to USF Office of Graduate Admissions
+               using our online portal.
+2. The Graduate Admissions Office will notify you the receipt of your application,
+               assign you a U number, review your application and supporting documentation, and if
+               complete, will refer your application to the MS-BAIS program. This process may take
+               up to one month, depending on their workload.
+3. If your application is incomplete (e.g., missing TOEFL score, missing application
+               fee, etc.), it will not be processed beyond this stage. Please check our online portal
+               to see what is missing from your application. You can also contact the Graduate Admissions
+               Office at 813-974-3350 or GradAdmissions@usf.edu (not the MS-BAIS program director)
+               for further help in this regard.
+4. If your application is forwarded to the MS-BAIS program, we will notify you by
+               e-mail our receipt of your application and ask you to provide additional supplemental
+               information via an online form. If you did not receive this e-mail, your application
+               is likely still pending at our Graduate Admissions Office; contact them for the status
+               of your application.
+5. The MS-BAIS program will review your complete application and notify you the final
+               decision on your application. Expect this process to take another 15-20 days. This
+               is the end of the admissions process, but you still have a long way to go to join
+               our program.
+6. International students will now have to provide proof of funds for our Office of
+               International Students to issue you an I-20. This may require a bank statement or
+               a bank loan. Domestic students may skip to Step 8.
+7. After receiving your I-20, schedule a visa appointment at your nearest US consulate
+               or embassy. Depending on applicant volume, it may take months to get a visa appointment.
+               If
+you don’t get your visa appointment in a timely manner, you may have to defer your
+               joining date to the following semester. Let us know if you choose to defer. If you
+               change your mind and want to join another university, you will have to restart your
+               I-20 process with your new university and get a new visa, which may further delay
+               your arrival to the USA by several more months.
+8. Inform us via e-mail when your visa is approved, so that we can register you for
+               classes for your first semester. Your first semester classes are Data Mining (using
+               Python), Analytical Methods in Business (using R), and Advanced Database Management
+               Systems (using Oracle), if you meet program prerequisites. Students not meeting prerequisites
+               will have to take remedial classes first, which may delay their graduation from the
+               program.
+9. Plan to arrive to our campus at least one week before the start of the semester.
+               This is the time when we do orientation sessions and conduct free workshops (bootcamps)
+               on R and Python – the two programming languages you must know for your first day of
+               class. If you miss these bootcamps, it will be your responsibility to learn these
+               tools on your own. Our professors don’t teach programming in class; they assume that
+               you attended the bootcamps, are conversant in these tools, and are ready to use them
+               to build statistical models and machine learning models in your first semester. This
+               extra week will also help you find an apartment to stay, which are quite difficult
+               to get at the start of any semester.
+10. Upon arrival to the USF, apply for a USF ID card and NetID. NetID is your single
+               sign on (SSO) access for USF computer systems, including our library, Canvas learning
+               management system (which hosts all our class information), Oasis course registration
+               system, Banner grade system, and many others.
+Costs
+Florida has one of the lowest tuition costs of all states in the United States. Our
+               tuition and fees can be calculated using our online tuition calculator at http://usfweb.usf.edu/graduate-studies/tuition-and-fee-calculator/
+               (enter ‘Graduate (Business, Engineering)’ in the Program Level drop down menu; the
+               MS-BAIS program is a minimum of 33 credits, not including any outstanding prerequisites).
+As of 2022, the out-of-state tuition and fees for a two-year MS-BAIS degree for an
+               international student is approximately $30,000. Students should also include another
+               $15,000-20,000 for two years of living expenses while in the program.
+Graduate Assistantships
+We have a limited number of graduate (teaching) assistantships, which typically make
+               students eligible for a lower, in-state tuition and pays for their health insurance
+               during their term of assistantship, in addition to providing them a monthly stipend.
+               Assistantship decisions are highly competitive and made on a semester-to-semester
+               basis, based on students’ performance in prior semesters at USF, their work ethic,
+               and their ability to assist us with undergraduate and graduate classes. For example,
+               we will only hire students with a strong background in statistics as teaching assistants
+               for our statistics classes. Assistantships are not available in your first semester
+               at USF, but will be available from the second semester onwards, based on your performance
+               in prior semesters at USF. Note that assistantships are not merit-based or need-based
+               scholarships, they are on-campus jobs, for which you are expected to work for 20 hours/week
+               as assigned by your supervising professor.
+Additional on-campus job opportunities are available as graduate assistants in other
+               offices, departments, and centers on the USF campus, for example, at our Dean’s office,
+               the Provost’s office, at USF Library, our INTO program office, USF Morsani Center
+               of Medicine, USF Center for Urban Transportation Research, and other departments on
+               campus. These jobs typically require specific skills such as Power BI, coding, and
+               so forth. These are university-wide positions, and
+students are selected based on their fit with job requirements. Our students are often
+               considered favorably for these positions because of their strong technical skills.
+               Only students already enrolled at USF have access to such positions on an internal
+               USF portal. Incoming international students cannot apply for these jobs from their
+               home countries.
+Students can also do paid full-time or part-time internships at a US company for a
+               maximum of 12 months as part of the curricular practical training (CPT) option of
+               the program, while fully retaining their 18-month optional practical training (OPT)
+               to secure a job and a work visa upon completion of their MS-BAIS degree. You must
+               complete two semesters of coursework at USF to be eligible for an internship. Our
+               students often get internship positions in prestigious companies like Amazon, BMW,
+               and JP Morgan Chase, and many of these internships often convert into full-time positions
+               upon graduation.
+CURRICULUM
+The Master of Science in Business Analytics & Information Systems requires 33 hours
+               of coursework, plus any necessary prerequisite courses, and may be taken either full-time
+               or part-time. This includes 15 credit hours of required courses (core courses and
+               capstone) and 18 credit hours of electives. Typically, most courses are 3 credit hours.
+               Full-time students with appropriate prerequisites may be able to complete the major
+               in 3-4 semesters of study. Part-time students will typically need from 2-3 years to
+               complete the degree.
+Optionally, students can choose one of three possible concentrations—analytics and
+               business intelligence, Fintech, and information assurance—by choosing a certain set
+               of elective courses recommended for each concentration. The required courses are the
+               same for each concentration. However, a concentration is not necessary to complete
+               your degree.
+For details about our required classes, electives, and prerequisites, please refer to our catalog. For more information on our coursework or prerequisite requirements, feel free to
+               contact the program advisor below. 
+Global executive Program
+This Global Executive Master of Science in Business Analytics & Information Systems program is designed for full-time, working professionals worldwide. This is a fully online
+               program with 100% live instruction that combines information systems and business
+               analytics courses. This program offers a predetermined set of required and elective
+               courses in a lockstep format, without the flexibility or customizability of our regular
+               program. Since students in this executive program are already full-time working professionals,
+               our extracurricular support (bootcamps, internships, job placement, etc.) are not
+               available to students in this program.
+CONTACT
+Han ReichgeltGraduate Coordinator, MS in Business Analytics & Information SystemsSchool of Information Systems and ManagementMuma College of BusinessPhone: (727) 873-4786muma-msbais@usf.edu 
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Frequently Asked Questions | MS in Business Analytics / Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+MS in Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+MS in Business Analytics & Information Systems
+Frequently Asked Questions
+Show  Secondary Navigation
+Overview
+Frequently Asked Questions
+Student Spotlights
+New Student Information
+Request Information
+ATTEND INFO SESSION
+APPLY NOW
+Global Executive Option
+Faculty
+Help Desk
+Frequently Asked Questions
+Rankings
+Fit
+Placement
+Finances
+Admissions
+International students
+Application
+Program
+Others
+We will hold brief Teams meetings every Thursday starting February 2 from 9:30 - 10:00
+               EST to answer any question you may have about the MS BAIS program.  However, the meetings
+               are not a substitute for you reading the information on this page, and other pages
+               related to the program and are therefore intended to answer questions that you might
+               still have after having read this material.  You can join the meetings here.
+GRE Testing -  Starting 11/20/21, We're requesting that you upload your testing center
+                           confirmation as well as your GRE scores when you apply.  Those who took the GRE at home should upload their documentation and note that is
+                        was a home test.  We accept GRE  scores from both home and testing centers, however,
+                        we prefer GRE scores taken at test center. At-home GRE scores will be considered but
+                        will be given less weight in assessing the application. 
+GRE/GMAT waivers may be requested for 1) those who have graduated from USF with a high GPA or 2) those have 3+ years of strong technical work experience in the region where the program is offered.  For our on-campus program, this means
+                     working while physically located in the U.S. While we value all technical work experience, the GRE/GMAT test waiver does not
+                     apply to those working remotely with U.S. companies.
+English Language Proficiency Testing - The English language requirement (IETLS / TOEFL) has not been waived. The TOEFL
+                  test is now online but is limited in the number of countries that offer online access.
+                  Because of this constraint, USF will temporarily use the online DuoLingo test. Email gradadmissions@usf.edu for more information.
+CIP code changes?  There is no plan to change the CIP code for the Master of Science in Business Analytics
+                  & Information Systems program. The STEM status of the program will remain unchanged. 
+  Rankings
+How is the program ranked among its peers?
+MS BAIS program has been ranked at #47 across the world in the 2020 QS World ranking
+               for MS in Business Analytics program.  In 2013, BusinessWeek magazine ranked the undergraduate
+               USF MIS program as #25 in the nation.
+How does the research activity in the department rank among its peers?
+While these rankings are volatile, the School of Information Systems and Management at
+               USF is ranked #32 in the world for publication in premier journals (Management Information
+               Systems Quarterly and Information Systems Research) during 2008-2012.
+What about some relevant rankings of the university?
+USF is one of the fastest growing universities in the nation. In 2012, the University
+               of South Florida was ranked #10 among universities in the world in the number of patents
+               awarded, placing it in the ranks of institutions such as MIT and Stanford in patent
+               awards.
+  Fit
+What are some special features of your program?
+Some special features of our program include:
+The USF Master of Science in Business Analytics & Information Systems program is a
+                  STEM program, which means that the academic curriculum has been assessed as meeting
+                  the most pressing needs of employers in the United States. For international students,
+                  this improves opportunities for optional practical training (please see the section
+                  on international students for more details).  There is no plan to change the CIP code for the program. The STEM status of our program
+                        will remain unchanged. 
+We have three optional concentrations within the program for those interested in focusing
+                  on cybersecurity, FinTech, or business intelligence.  Concentrations can be completed
+                  within the program by appropriate selection of electives.
+Is this program well-suited for "business-oriented" jobs upon graduation?
+This is a STEM program. It is therefore recognized as a differentiated program that
+                  aims to meet a set of unique, specialized needs in the economy. For the foreseeable
+                  future, there is high demand in the workplace for graduates with the knowledge and
+                  associated skills we cover in our program and a very tight supply of these graduates.
+Other departments in the college and the university generate large pools of graduates
+                  with "business knowledge."  Program leaders strive to differentiate Master of Science
+                  in Business Analytics & Information Systems students in a meaningful way and, as a
+                  result, graduates command a 15-20% wage premium at start compared to most other majors.
+Largely due to plentiful supply of graduates with business skills and a shortage of
+                  graduates with technical skills, the immigration process is vastly more friendly towards
+                  graduates going into technical roles as opposed to graduates trying to enter business
+                  roles.
+Those interested in getting into a business role upon graduation as opposed to a more
+                  technical role, may also want to consider the MBA program. Some alumni pursue an MBA
+                  a few years after graduating from this program. 
+Students entering medical school aspire for medicine-oriented jobs in hospitals, not
+                  the business-oriented jobs in hospitals. Given the specialized nature of that business,
+                  most hospitals are led by medical specialists, not business generalists. The same
+                  is increasingly becoming true of the IT industry. Program leaders aim to position
+                  students for leadership roles in the IT industry, which, going by stock market estimates,
+                  is about 20% of the US economy.
+  Placement
+What is the full-time placement record?
+The department has its own exclusvive student success specialist who facilitates job
+               and internship placement for graduate students. All of the students in the Master
+               of Science in Business Analytics & Information Systems program who responded to recent
+               placement surveys (summer 18 through fall 2021) reported being employed within three
+               months of graduation (typically, about 75% of graduates respond to such surveys).
+               Recent graduates reported being placed at leading global businesses such as IBM, Deloitte,
+               Apple, Microsoft, Disney, PayPal, Goldman Sachs, Booz & Company, Capgemini, Tech Data,
+               Infosys, JP Morgan Chase, SAS Institute, Capital One, Rockwell Collins and Raymond
+               James. Starting salaries have been in the $65K – $180K range, varying with location,
+               experience and other factors. The location of the department within the technologically
+               dynamic metropolitan area of Tampa Bay helps students locate employers of choice.
+Additionally, the department seeks out opportunities to help students demonstrate
+               their skills. USF teams have competed in several international case competitions.
+               These competitions attract teams from top schools such as Carnegie Mellon, Purdue,
+               and the University of Arizona. The department pays all travel related expenses for
+               the students selected to participate.  The department's Practice Center offers professional
+               development opportunities in collaboration with local industry and often leads to
+               job offers after graduation, too.
+The department has strong relationships with IT industry in the Tampa Bay area and
+               has an active mailing list for jobs and internship opportunities. Job fairs, information
+               and interview sessions are offered through the USF Career Center and the Muma College
+               of Business' Office of Employer Relations.
+What is the salary range of recently placed graduates from the program?
+The starting salary offers for recent MS BAIS graduates were in the range $65,000
+               - $180,000, varying considerably with the location of the position and the experience
+               of the graduate. The average starting salary offer was approximately $120,000. This
+               does not include benefits such as healthcare, and retirement.
+  Finances
+How much will the program cost?
+Florida has one of the lowest costs nationwide of completing an academic degree. Our
+               tuition information can be found at http://usfweb.usf.edu/graduate-studies/tuition-and-fee-calculator/ (enter ‘Graduate (Business, Engineering)’ in the Program Level drop down menu). 
+               The MS in BAIS  program is a minimum of 33 credits, not including any outstanding
+               prerequisites.  
+Are there any scholarships or graduate assistant positions available?
+Scholarship information can be found at the Office of Graduate Studies scholarship web page.
+The School of Information Systems and Management offers graduate assistant (GA) positions
+               each year, which are awarded on a competitive basis.  Please be aware that the hiring process takes time, so applicants should apply early
+                     and have their visas (international students) to be eligible for a position in their
+                     first semester.  While the department does its best, it is unable to make any commitment that students
+               will find a GA position.  GA positions are not available to students in their first
+               semester in the program.
+The department traditionally has four types of GA positions available:
+Department undergraduate teaching assistant (two-semester limit; selection among all
+                  enrolled students): Selection based on GRE / GMAT scores, TOEIC/TOEFL/IELTS speak
+                  scores (international students), strength in the teaching area and interviews,
+Department graduate teaching assistant (two-semester limit; selection among all enrolled
+                  students): Selection based on class performance, faculty recommendation and TOEIC/TOEFL/IELTS
+                  speak scores (international students),
+Department skills based positions (selection among all enrolled students): Selection
+                  based on project scope and technical skills required,
+Pre-approved out-of-college technical positions (selection among all students admitted
+                  that semester): Selection based on position responsibilities and technical skills
+                  required.
+Incoming international students must submit a copy of their visa along with their
+               application in order to be considered for any positions.
+USF will send announcements to all current and incoming graduate students.   ** Spring
+                     applications may be used for both the spring and any open summer positions.
+Are there part-time jobs available on campus?
+Yes, these positions exist, though they become available on an irregular basis. Master
+               of Science in Business Analytics & Information Systems students have received part-time
+               positions (including GA positions) in many different academic and administrative departments
+               on campus. 
+Are internship/Co-op opportunities available?
+The department has a very exciting program for the professional development of students
+               in collaboration with champions for the department in local industry - the SISM Practice
+               Center. Industry partners including Citigroup, JPMorgan Chase, Time Customer Service,
+               Raymond James Financial, Verizon, Finntech, and the US Veterans Administration regularly
+               craft projects for our students to refine and demonstrate their skills in paid positions
+               while developing a useful product for the project sponsor. Many of these projects
+               lead to employment offers, specially when students are able to demonstrate technical
+               competence. In addition, there is also the Practicum option, which allows students
+               to do internships in various companies while earning elective credits. Companies providing
+               such internship opportunities include Verizon, Tech Data, Microsoft, JPMorgan Chase,
+               Raymond James, Citigroup, and Nielsen.
+  Admissions
+What are the application requirements?
+Application requirements are determined by the USF Graduate school, which provides
+               detailed application requirements.
+Can I apply with a three-year undergraduate degree?
+We require a four-year undergraduate degree or a three-year degree with one year of
+               graduate work.
+Do I need work experience in order to qualify for admission?
+Work experience is not strictly required, but work experience will mean that your
+               application will be stronger..
+What does the admissions committee look for?
+The admissions committee reviews each application for undergraduate transcripts, standardized
+               scores (GMAT/ GRE, TOEFL if necessary), relevant work experience, two academic or
+               professional letters of recommendation, the statement of purpose essay and relevant
+               extracurricular involvement.  The statement of purpose is viewed as a writing sample; no separate writing sample
+                  is necessary.
+Can I send my application information to the department for an evaluation before I
+               apply?
+The graduate coordinator and academic director welcome queries but cannot review application
+               materials and 'pre-admit' students to the program before the complete application
+               is submitted and reviewed by the admissions committee.
+Do I need to take the GRE or the GMAT?
+Yes, these are essential components of the application. Applicants may however choose
+               to take either the GRE or GMAT.
+What is the minimum accepted GRE/GMAT score?
+The admissions committee evaluates the whole application, not a single score. Additionally,
+               the admission decision is based on the number of applicants and available seats for
+               the program. However, in recent years, most successful applicants have typically had
+               GRE scores near or above 308 (with a verbal score of 149 or above) and GMAT scores
+               in the 580+ range. 
+I took the GRE/GMAT a few years ago. Will I have to re-take the test? Can I get the
+               GRE / GMAT requirements waived?
+These scores are only valid for five years. The School of Information Systems and
+               Management seldom waives the GRE / GMAT requirement for the MS program.
+Do I need to take the TOEFL? What is the minimum TOEFL score?
+The TOEFL exam may be waived under certain circumstances. Current information can
+               be found at the USF Graduate School language requirements web page and the graduate application requirements page.
+What code do I use to send test scores to USF?
+The institution code for USF is 5828 and applies to all tests administered by ETS. 
+               There is no department code necessary.  GMAT scores can be sent with the following
+               school / program: VP9-M4-17.  More information can be found at the graduate applications requirements page. 
+Do I have to have a technology-related undergraduate degree?
+No. Although technology experience is considered in the admission decision, the department
+               goes to great lengths to accommodate students from all undergraduate majors, students
+               from all academic backgrounds can find professional success after going through our
+               program.
+Are there any prerequisites for admission into the program?
+In addition to a four-year bachelor's degree, the program prerequisites are listed
+               below. The prerequisite courses do not count towards the 33 credit hours of course
+               requirements in the Master of Science in Business Analytics & Information Systems
+               program. Most admitted students are able to waive many of these requirements from
+               prior course-work and/ or work experience. Many remaining requirements can be completed
+               before beginning the program through various resources available to students.
+One semester of a high-level, object oriented programming language (e.g., C#, C++,
+                  Java) or substantial object-oriented programming experience
+One semester of Information Systems Analysis and Design, Systems Engineering or equivalent
+                  experience
+One semester of Database Systems or equivalent experience
+One semester of Statistics (this must include significant coverage of: probability
+                  distributions, regression analysis, multivariate analysis, and hypothesis testing)
+One semester of economics (micro or macro)
+One semester of financial accounting
+I am not sure I have met the prerequisites in my prior course work. How can I confirm
+               my prerequisite needs?
+All newly admitted graduate students should contact the admissions team at msbais-admissions@usf.edu for a prerequisite check. The team will let you know if you have any outstanding
+               prerequisites and offer strategies for completing prerequisites.
+Do I have to take the prerequisites before I start the program?
+No, with some careful scheduling of classes, the prerequisites may be taken concurrently
+               with courses in the Master of Science in Business Analytics & Information Systems
+               program.
+Can I defer my admission if necessary?
+Applicants can request a deferment of up to one year by sending an email request to
+               msbais-admissions@usf.edu.
+Can I transfer from another university's master's program?
+Students interesting in transferring to USF should apply using the same process as
+               all other graduate applicants. If admitted, you can complete a transfer of course form and send it along with course syllabi to the he admissions team at msbais-admissions@usf.edu. A maximum of 9 graduate credits can be transferred from approved universities and
+               only courses completed with a B grade or better can be considered.
+Can I email the MS BAIS academic advisor with further questions?
+Yes, feel free to contact the admissions team at msbais-admissions@usf.edu   with additional questions, however we ask that you:
+First review this FAQ document completely. To make the best use of both our times, if we have addressed your question here,
+                  we will direct you here anyway
+Follow the links for additional information from other departments at USF
+Send questions to the appropriate department (the admissions team cannot help with
+                  specific questions about the online application, tuition, residency, I-20s, immunization,
+                  etc.)
+Include your full name and U # in the subject area (header) of all email correspondence
+  International students
+Where can I find information about required TOEFL / IELTS scores?  
+The Office of Graduate Studies has a webpage with this information.  If you still have questions after reviewing this, please contact the Office of
+               Graduate Studies directly at admissions@grad.usf.edu
+I'm an international student, what are some special feature of the program for international
+               students?
+The USF MS BAIS program is a STEM program with CIP code 11.0501 (Computer System Analysis/
+               Analyst), which means the usual 12 month practical training period can be extended
+               under certain conditions. Please see the USF website for OPT Extension Information as well as the ICE website for STEM (Science, Technology, Engineering and Mathematics)
+               CIP (Classification of Instructional Programs) codes classified by DHS as STEM programs, and the corresponding benefits to international students. Please contact International Services for additional information.
+Can I get practical training while in the program?
+Students may do curriculum practical training while in the program. Students must follow the guidelines.
+I'm an international student, where can I get help on the documents needed to attend
+               USF?
+Information for International Students can be found at the Admissions Information for International Students website and the International Services website.
+I have never traveled abroad before. What resources are available to make my initial
+               arrival comfortable when I reach USF?
+Following the American spirit of self-help, many student organizations on campus do
+               their best to make your arrival and early days as pleasant as possible. Examples include
+               the USF Friends of Internationals Ministry, a faith-based organization.
+I am an international student with a three-year undergraduate degree. Can I apply
+               for the MS/ BAIS program directly, or do I need to first apply to a bridge program
+               to complete the fourth year?
+Please see the University's page on Bachelor's degree equivalence on the process for such degree holders. Typically, for European students, if your
+               institution complies with the Bologna requirements, you should not need any additional
+               course work. Students from other countries generally need to complete one additional
+               year of school-work. For additional information, please contact the graduate school.
+What is the appropriate way to address faculty?
+The general practice to address faculty is "Professor <last name>". If you know the
+               professor has a PhD degree, it is also common practice to address them as "Dr. <last
+               name>." As a general rule, avoid addressing faculty by first names unless they specifically
+               ask you to.
+What is the appropriate way to address business professionals you might meet on campus?
+A safe practice is to address any business professional (who might be your boss or
+               manager) as Mr. <last name> or Ms. <last name>. As a general rule, avoid addressing
+               business professionals by first names unless you feel you know them reasonably well
+               or they ask that you do so.
+  Application
+How does the application process work?
+Applications are accepted by the USF Office of Graduate Studies and are sent to the
+               department for evaluation when the required documents (soft copies of resume and statement
+               of purpose, transcripts (all semesters combined into one PDF), two letters of recommendation,
+               and test scores) have been attached to the online application. Please submit all documents in PDF format (not Word).  It's best not to submit your application until you have all documents ready.  Once
+               the applications are complete and the application fee paid they are evaluated by the
+               Muma College of Business as well as the ISDS Department and finally by the Office
+               of Graduate Studies who will contact you with an admission decision.  Most application
+               decisions are made after the early admission date. You can check your application
+               status on the Office of Graduate Studies Status Page.   
+What are the application deadlines? 
+The USF Graduate College website has slightly different deadline dates, please use
+               the dates below when applying.  There is limited flexibility with these deadlines,
+               especially for international students, since admissions decisions can be followed
+               by paperwork for international travel, over which the department has no control. Please
+               contact the MS BAIS academic advisor with any individual concerns.
+Fall Applications.  July 1 for domestic and international applicants. However, there are limited seats.
+               Please apply as early as possible, preferably by February 1.
+Spring Applications. Domestic and International Students: October 15.  Note that due to capacity limitations,
+               spring intake is typically a much smaller cohort and admissions is more competitive.
+               Please apply early.
+What if my application is late by a few days after the deadline?
+We do our best to process late applications, but we have limited seats in our program.
+               In the past we have run into situations where we could not accommodate all applicants
+               meeting our general criteria. Since we have no way of knowing how many students will
+               apply in any given year, and are interested in maintaining a full class, earlier applications
+               that meet our criteria are generally accepted without delay. However, in years where
+               we experience strong early interest in our programs, applications that arrive closer
+               to the deadline and after may be screened on increasingly stringent criteria to ensure
+               that our process is fair. Also, our graduate students office is more constrained in
+               its ability to process late applications when interest in our programs is high. Therefore, it is best to apply as early as possible.
+How do I apply for this program?
+You can apply using the online graduate application.  
+What does a strong application look like?
+Strong GRE / GMAT test scores
+Strong undergraduate transcript
+Strong TOEFL/ IELTS scores (international students only)
+Two page (maximum) resume clearly identifying your technical work experience (with
+                  start and end dates, most recent first) and undergraduate major and grades. 
+Two page (maximum) statement of purpose incorporating the following topics:
+What accomplishment (personal or professional) are you most proud of?
+Any special challenges you have overcome?
+Why do you want to enroll in our program?
+All of our applicants are very driven and well qualified, as inferred from the objective
+               scores we receive.  The statement of purpose is used by the admissions team to learn
+               relevant information about you that may not be conveyed by your 'numbers.'  Please
+               use this opportunity accordingly.  
+Does the program consider academic and life experiences to meet the professional experience
+                  requirement for admission?
+Generally students must have the professional experience. However, students may submit
+               requests to consider differences in various international professional environments.
+               These will be reviewed in order to gain a holistic review of candidates to assist
+               in creating a diverse student body.
+Are there any special application instructions?
+Please scan all required documents and attach them to the online application (resume
+                  and statement of purpose should be in PDF format). Do not send any hard copy documents
+                  when applying.  Once an admissions decision is made the USF Office of Graduate Studies
+                  will contact you for any required hard copies.
+If you have questions about the online application process, please contact Graduate
+                     Admissions at gradadmissions@usf.edu.
+How can I check my application status?
+You can go to www.grad.usf.edu/sonic3/status.php to check your admission status.  Note that if your status reads that   your application
+               has been 'referred' to the department, this just means it has left the Office of Graduate
+               Studies.  It is reviewed by several other departments before a final admission decision
+               is made.  The Office of Graduate Studies  will contact you with the final decision. 
+I have questions about the online application, who should I contact?
+Below are some common application questions.  If you have other queries concerning
+               the online application and required documents, they can be directed to the USF Graduate
+               College at (813) 974-3350 or via email at gradadmissions@usf.edu.  Our BAIS Department does not have access to the online application site.
+What should I do if my GPA is not scored out of 4.0 points?  Just estimate your GPA, we look at your transcripts (all semesters combined into
+                  one PDF)  for your grades.
+My credits are calculated differently, as I am an international student - what should
+                     I enter?  Just estimate!  We will not look at this field for international students. 
+The application asks about a certification, do I need this?  This refers to College of Education graduate students only. Our program does not
+                  require a certification.
+The Office of Graduate Studies websites mention sending hard copies.  Should I do this?  Again, please attach all required documents to your online application.
+                   Do not send any hard copies until an admissions decision has been made. 
+How many letters of recommendation do I need to send?  Two letters are sufficient and they can be from supervisors at your place of employment
+                  or undergraduate professors. 
+Do I need to submit a statement of purpose as well as an essay / writing sample?  We will use your statement of purpose as your writing sample; you do not need to
+                  submit a separate sample
+  Program
+How long will it take to complete my degree requirements?  Can I complete the program
+               in one year?
+The program requires 33 hours of coursework in addition to any prerequisites and may
+               be taken either full-time or part-time.  Our course offerings are scheduled such that
+               interested full-time students who have already taken all required prerequisites and
+               are willing to take the required course load can complete the program in just over
+               a year (fall, spring, and summer, or fall, spring and summer) of study.  However,
+               most students take an additional semester and graduate in the semester a year after
+               they started (e.g., Fall 2023 if they started in Fall 2023)
+Part-time students and full-time students who need prerequisites will typically need
+               2 to 3 years to complete the degree.
+Can students admitted in one semester elect to use a different catalog rather than
+               the one they were admitted under?
+Yes. Students can elect any catalog after their admissions date that falls during
+               their time at USF. So, a Spring 2021 admit came in under the 20-21 catalog, but can
+               switch to the 21-22 catalog during Fall, 2021.  Contact Han Reichgelt at muma-msbais@usf.edu if interested in doing this.
+What is the order of courses that I should take?
+Fall Admits
+Spring Admits
+Semester 1 (Fall)ISM 6218 – Advanced DatabaseISM 6136 – Data MiningQMB 6304 – Analytical Methods for Business+ Electives
+Semester 1 (Spring)ISM 6218 – Advanced DatabaseISM 6136 – Data MiningQMB 6304 – Analytical Methods for Business+ Electives
+Semester 2 (Spring)ISM 6124 – Advanced Systems Analysis and DesignISM 6225 – Distributed Information Systems+ Electives
+Semester 2 ( Summer)Electives (optional)
+Semester 3 (Summer)ISM 6945 - Internship (Optional)+Electives (optional)
+Semester 3 (Fall)ISM 6124 – Advanced Systems Analysis and DesignISM 6225 – Distributed Information Systems+ Electives
+Semester 4 (Fall)+ElectivesISM 6155 - Enterprise Information Systems Management
+ Semester 4 ( Spring)+ElectivesISM 6945 - Internship (Optional)ISM 6155 - Enterprise Information Systems Management
+I just got admitted. What do I do next?
+Please contact the admissions team at msbais-admissions@usf.edu at the earliest to have your prerequisites evaluated and get a heads up on choosing
+               classes and registering for classes.
+Can I do an Internship?
+Yes, the program allows you to do an internship, and we actually encourage students
+               to do so.  However, you can only do an internship once you have completed two full
+               semesters, i.e. the following Fall for Fall admits, and the following Spring for Spring
+               admits.
+Can I complete the program online?
+At this time we are not offering a completely online program.  Our on-campus program
+               offers a combination of on-campus and online coursework.
+How technical is the MS BAIS Program?
+This is a demo of a class project from ISM 6225. James Long, an MS BAIS student, walks
+                  us through a full stack MVC web application on Azure Cloud.
+The Master of Science in Business Analytics & Information Systems (MS BAIS) program
+               bridges the need in the marketplace for people who can serve as the bridge between
+               technology and business. The program therefore offers students a fair amount of flexibility
+               between business (generally considered non-technical) and technology (generally considered
+               technical). However, a common feature of most courses in the program is a focus on
+               understanding technology well enough to leverage it in business. This is in response
+               to business needs for people who can leverage technology and increasingly, data. That
+               said, faculty in the program take great pride in making the content which is generally
+               considered highly technical to become highly accessible.
+Students can leverage the built-in flexibility in the program, selecting electives
+               most appropriate for them. Students may even take some approved electives outside
+               the department to further customize their program.
+What does the MS BAIS program of study consist of?
+The MS BAIS program consists of 5 core classes and 6 electives described here. 
+Which courses can be used as electives?
+Six electives may be selected from the available Information Systems electives, or
+               (with prior approval of the MS BAIS program graduate coordinator and the concerned
+               department) other related areas of specialization such as Management, Computer Science,
+               Entrepreneurship, Logistics, Accounting etc. Students can use 3-6 elective hours (1-2
+               course equivalents) for the practicum option. Electives must be 3 credit courses.
+               Note that ISM6123 (Systems Analysis and Design), and ISM6217 (Database Administration),
+                  can be used to meet the prerequisites for the program, but cannot be used as program
+                  electives.
+How many classes do students take each semester?
+Students can take up to 4 classes each semester, subject to scheduling constraints.
+               International student are required to carry at least 9 credits in order to maintain
+               their immigration status (except for summer and their graduating semester). Students
+               working full-time often choose to take fewer classes each semester to balance work
+               and study.
+How long will it take to complete my degree requirements?
+The program requires 33 hours of coursework in addition to any prerequisites and may
+               be taken either full-time or part-time. Full-time students who already have taken
+               all required prerequisites can complete the program in 3 full semesters of study.
+               Part-time students and full-time students who need prerequisites will typically need
+               from 2 to 3 years to complete the degree.
+Is it possible to do a dual MS-BAIS / MBA program or MS-BAIS and another MS?
+Yes. To do so, students must apply to both programs of interest and be admitted to
+               both programs. USF has some procedures in place that allow students to use some of
+               the the same applicable courses to meet the requirements for both degrees, thus reducing
+               the required course-work to complete the dual degree. 
+I have questions about the program in general, who should I contact?
+If, after reading this webpage, you have questions about the online application or
+               the application process in general, please contact the USF Graduate College at (813)
+               974-3350 or via email at gradadmissions@usf.edu. Our BAIS Department does not have access to the online application site.  
+  Others
+USF is one of the most rapidly growing universities in U.S. Within a span of 50 years
+                  since its inception, it have achieved the status of a top-tier research university
+                  as per Carnegie Foundation.
+The Tampa Bay location is a major advantage. There are many companies in the Tampa
+                  Bay area that provide internship opportunities as well as recruit our students.
+USF has an outstanding faculty (four come from IITs; several  have PhD degrees from
+                  Harvard, NYU, Purdue, Minnesota etc; many held previous faculty positions at Wharton,
+                  Maryland, Michigan etc).
+We are the only American university so far that Infosys has partnered with in hosting
+                  the IT summer school program.
+The department is the lead facilitator of the USF Programming Team and interested
+                  MS BAIS students help out with the team efforts.   You can check out their activities
+                  on the USF Programming Team Facebook page.  
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Register for an Information Session | Graduate Programs | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Graduate
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Register for an Information Session
+Show  Secondary Navigation
+Overview
+Master's Programs
+MBA Programs
+Doctoral Programs
+Graduate Certificates
+Graduate Course Permit
+Career Coaching
+Chat with Us
+Contact Us
+Register for an Information Session
+Information sessions help potential students make sound decisions and USF graduate
+               business admissions counselors can help find and identify the program that is right
+               for each student, based on career goals and student interests. The information sessions
+               are casual and relaxed, giving potential graduate students a chance to ask questions
+               in order to make informed decisions.
+INFO SESSION SCHEDULE
+The USF graduate business recruitment team will discuss curriculum structure, program
+               duration, tuition cost, and admission requirements. Additionally, our team provides
+               insight into student resources and engagement opportunities while enrolled as a graduate
+               student.
+Upcoming Sessions
+Professional and Online MBA Virtual Information SessionOctober 18, 2023 | 12:00pm - 1:00pmHosted live onlineRegister Now
+St. Petersburg In-PersonOctober 23, 12:00pm to 1:00pm
+VirtualNovember 14, 5:00pm to 6:00pm
+St. Petersburg In-PersonNovember 28, 5:30pm to 6:30pm
+VirtualDecember 1st 12:00pm to 1:00pm
+If you have questions, or would like to schedule an appointment, please email bsn-grad@usf.edu.
+Contact Information
+Office of Graduate ProgramsUSF Muma College of Business4202 East Fowler Avenue, BSN 103Tampa, FL 33620-5500Phone: (813) 974-3335Fax: (813) 974-4518Email
+Office Hours
+USF Muma College of BusinessBSN 103 Monday-Thursday - 8:00 a.m.- 5 p.m.Friday- 8 a.m.- 4 p.m.
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Title
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+MS in Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+MS in Business Analytics & Information Systems
+Faculty
+Show  Secondary Navigation
+Overview
+Frequently Asked Questions
+Student Spotlights
+New Student Information
+Request Information
+ATTEND INFO SESSION
+APPLY NOW
+Global Executive Option
+Faculty
+Help Desk
+Faculty
+Manish Agrawal • Professor • TampaDon Berndt • Associate Professor • TampaAnol Bhattacherjee  • Professor • TampaKaushik Dutta • Information Systems and Management Director and ProfessorGrandon Gill • Professor and Academic Director, DBA programAlan R. Hevner • Distinguished University Professor and AAAS FellowWolfgang S. Jank, Anderson Professor and advisor, Center for Analytics and Creativity Joni L. Jones • Associate Professor • Academic Director, MS in BAIS program • Faculty Liaison,
+               Florida Center for Cybersecurity and Academic Director • TampaSunil Mithas • Professor and World Class Scholar • TampaMatthew Mullarkey • Associate Professor of Instruction and Director, DBA programBalaji Padmanabhan • Professor • Director, Center for Analytics and Creativity • TampaRonald K. Satterfield • Professor of Instruction • Academic Director, Weekend Executive MS program• Instructor
+               • Member, Board of Directors, USF Federal Credit Union • TampaShivendu Shivendu • Associate Professor • TampaTim Smith • Professor of Instruction • St. PetersburgTom Stablein • Assistant Professor of Instruction • Director, Weekend Executive MS program Dezhi Yin • Assistant Professor • TampaDaniel Zantedeschi • Assistant Professor • TampaHe Zhang • Assistant Professor • TampaBarbara Warner • Senior Instructor • Advisor, MS in BAIS program
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Global MS in Business Analytics and Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Overview
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Overview
+View Program Flyer
+Find course descriptions in the USF Catalog
+View Program Calendar
+Accepting applications for SUMMER 2023
+Apply here
+This program is 100% online taught synchronously and asynchronously at convenient
+                     times for working professionals in the U.S., Europe, and Asia.
+The Master of Science in Business Analytics and Information Systems program offered
+               remotely across the globe integrates technology development and data analytics, while
+               its strong focus on leadership development will equip you to overcome issues that include
+               communication, self-awareness, team orientation, and accountability.
+The Master of Science in Business Analytics and Information Systems program offered
+               globally through remote video conferencing facility is designed for professionals
+               around the world who want to move into management positions in the data analytics,
+               information systems and information technologies arenas. This is an advanced STEM-certified
+               business degree, which covers both the technology related to business analytics and
+               the managerial aspects of implementing these technologies in organizations. Graduate
+               students leave with a firm grasp of how to use big data, data science, project management,
+               and information technology strategies in technology leadership.
+This 12-month program accommodates busy work schedules. It consists of nine courses and a six-credit-hour project/independent study.View course descriptions in the USF Catalog
+Live online meetings with professors and peer students take place on Saturdays and Sundays.
+This program has a strong analytics and business intelligence curriculum — seven data-focused courses in addition to a 6-credit-hour project.
+This is an AASCB and SACSCOC accredited nationally recognized degree.
+It is one of the most cost effective STEM designated business programs with total tuition at $17,325
+Students are taught by full-time faculty members of USF with years of academic and industry experience. For a list of faculty members see
+                  here.
+Leadership Focus
+The program is geared towards working professionals. Leadership development is integrated
+               into each course to help students move forward in their careers.
+Independent Study
+The six-credit-hour project lasts over the course of the program. Faculty experts
+               guide students as they develop a prototype technology system or derive insights out
+               of publicly available datasets. Students may use this opportunity to prepare a paper
+               for submission to an international peer reviewed conference.
+Tuition
+$17,325 USD for the complete program staggered over one calendar year and three semesters.
+Contact
+Academic DirectorTom Stableintstablein@usf.edu
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Sample Schedule | Global Online MS in Business Analytics and Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Generic Schedule
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Generic Schedule
+2023-2024 Cohort Schedule
+A typical 52-week schedule of live class meeting dates is below. These are only the
+               live-streamed class sessions. There will be independent work between sessions with
+               materials posted online.
+Times listed are in Eastern Standard Time.
+For course descriptions, view the program listing in the USF Catalog.
+SEMESTER 1
+Course Title
+Date
+Orientation/Python Bootcamp
+Week 0
+Advanced Systems Analysis and Design
+Software: ICASE Tool – ArgoUML, Visio
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Break
+Week 6
+Advanced Database Management
+Software: Diagramming Tools (e.g., Visio, Drawio, Gliffy), Relational Database Management Systems
+                           (e.g., Oracle, MySQL, SQL Server), NoSQL Databases (e.g., MongoDB
+Week 7
+Week 8 
+Week 9
+Week 10
+Week 11
+Break
+Week 12 
+Data Mining
+Software: R and Microsoft Azure ML
+Week 13
+Week 14
+Week 15
+Week 16
+Week 17
+SEMESTER 2
+Course Title
+Date
+Analytical Methods for Business    
+Software: R, R Studio, Excel
+Week 18
+Week 19
+Week 20
+Week 21
+Week 22
+Break
+Week 23
+Break
+Week 24
+Data Science Programming
+Software: Scikit learn and TensorFlow using Anaconda distribution
+Week 25
+Week 26
+Week 27
+Week 28
+Week 29 
+Big Data for Business Applications
+Software: NoSQL Database (Cassandra and MongoDB). Hadoop HDFS, Hive/Impala, Map-Reduce, Databricks
+                           Spark
+Week 30
+Week 31
+Week 32
+Week 33
+Week 34
+Break
+Week 35
+Break
+Week 36
+SeMESTER 3
+Course Title
+Date
+Statistical Data Mining
+Software: R, R Studio
+Week 38
+Week 39
+Week 40
+Week 41
+Week 42
+Distributed Information Systems
+Software: Microsoft Visual Studio Code, HTML, CSS, JavaScript, Python Flask
+Week 43
+Week 44
+Week 45
+Week 46
+Week 47
+Enterprise Information Systems Management
+Software: Miro, Padlet, Trello, MS Teams, PowerPoint/Prezi
+Week 48
+Week 49
+Week 50
+Week 51
+Week 52
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Tuition/Financial Aid | Online Master of Business Administration | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Tuition/Financial Aid
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Tuition/Financial Aid
+Tuition
+The Online Global MS is $525/credit hour for core, elective, and capstone courses.
+Financial Aid
+Many Online Global MS students benefit from corporate tuition assistance policies
+               granted by their employers. Future students are strongly encouraged to identify what
+               programs are available through their employer.
+USF financial aid is available in the form of partial scholarships or loans. A step-by-step
+               guide for financial aid for graduate students and other information about financial
+               aid can be found on USF's University Scholarships & Financial Aid Services website. 
+Post 9-11 GI Bill for Veterans
+USF Ranked #2 in the Nation for Best Colleges for Veterans
+The Post 9-11 GI Bill covers a large amount of the tuition and program fees for the
+               Online Global MS Program. The USF Office of Veterans Success serves veterans, active duty servicepersons and members of the Selected Reserve,
+               as well as the dependents of veterans eligible for benefits. They offer guidance regarding
+               educational benefits eligibility and assistance with forms and forwarding of documentation
+               to the VA.
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Frequently Asked Questions | Global MS in Business Analytics and Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Frequently Asked Questions
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Frequently Asked Questions
+Are there any prerequisites?
+There are 6 prerequisites. Your transcript and work experience will be evaluated to
+               see which, if any, of them you have to complete.  
+Upon completion of the course, will I get the same Masters degree that US students
+                  get?
+Yes, you will receive the same Master of Science degree. There will be no mention
+               of the online designation.
+In case I am not able to attend a live class/session, will there be a recording to
+                  view at later time?
+Yes, all live classes are recorded.
+What is the grading structure/pattern for the courses? 
+A+
+4.00
+98-100%
+A
+4.00
+92-97
+A-
+3.67
+90-91
+B+
+3.33
+88-89
+B
+3.00
+82-87
+B-
+2.67
+80-81
+C+
+2.33
+78-79
+C
+2.00
+72-77
+C-
+1.67
+70-71
+D+
+1.33
+68-69
+D
+1.00
+62-67
+D-
+0.67
+60-61
+F
+0.00
+>60%
+The exam and grading are individually administered by the faculty member teaching
+               a specific course. In USA system the grading is continuous. It is heavily dependent
+               on assignments, homework, class work, class participation, group project work, quiz
+               and sometimes final exam.
+Are GRE/TOEFL waivers available?
+There are waivers available for the GRE and TOEFL scores. Detail the relevant work
+               experience you have. A certificate from your institute (registrar/dean) certifying
+               that your degree was fully in English and all exams were conducted in English will
+               enable us to waive the TOEFL.
+What courses are offered?
+Due to the cohort nature of the program and the material value we place on the cohort
+               experience, USF faculty along with our Industry Advisory Board selected the electives
+               most desired in the business world and all students take the same courses together
+               for the entire program.
+Do we get course material that is prepared by the faculty or do we need to buy books?
+The tuition covers all material, including software. Faculty do not use any textbook
+               because the courses are based on the faculty’s own expertise and experience. You will
+               need a laptop or computer to attend the class and complete the homework. An i5 processor
+               laptop or desktop with minimum 8GB RAM, microphone, sound and camera is needed.
+Will tutors be available on video calls for any questions after class or provide assistance
+                  during project work?
+Faculty are happy to stay in the video conference after class to address any gaps
+               in understanding. Faculty have weekly virtual office hours where you can meet with
+               faculty on one to one basis to get any questions answered. If required faculty may
+               also ask a teaching assistant to help you. Your success is important to us and that
+               is the sole focus.
+After my first semester, if I need to focus on my work, is there an option to defer
+                  my admission or can I exit the program with refund?
+Courses are paid for on a semester by semester basis. For example, in summer semester
+               (May-July) you will have 3 courses (3x3 = 9 credits) + a 2-credit independent study.
+               So you need to pay the tuition fee for these 11 credits ( $5775) by the first week
+               of May. If you withdraw in the middle of summer, there is no refund for these courses.
+               However, after completing summer and successfully passing all courses, if you decide
+               you cannot continue you may defer your program. You may come back in the next fall
+               semester and resume the program. The credit you earn by completing the course work
+               for a semester stays with you on permanent basis.
+When will I know my admission confirmation? 
+We will let you know informally whether you are being admitted or not. We will not
+               ask you to submit the application unless we are confident that you can be admitted.
+               The admission process includes discussion with the academic director, Tom Stablein.
+               The formal university admission letter may take some time because it goes through
+               multiple steps. Once you are admitted you are a regular student like any of our students
+               at the Tampa campus. You will have access to the digital library, USF infrastructure
+               (such as Teams and Office.com), and software free of cost.
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Application Process | Global Online MS in Business Analytics and Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Application Process
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Application Process
+Apply for the Global MS in Business Analytics & Information Systems program
+Apply Here 
+Program Admission Requirements
+Students are admitted to the Master of Science in Business Analytics and Information
+               Systems program based on the evaluation of their application in its entirety, including
+Bachelor's degree with a 3.00 GPA,
+GMAT, GRE or other standardized scores for graduate programs (e.g. MCAT, LSAT).
+For students with work experience the requirement of standardized scores may be waived.
+For details please contact the program directors.
+Language proficiency scores (for international students only) (e.g. TOEFL with a minimum
+                  score of 79) using TOEFL or IELTS or other standardized English tests as accepted
+                  by Graduate Admissions if the undergraduate education was not in English.
+Statement of purpose.
+Relevant work experience.
+The applicants must submit all the documents electronically during the application
+               process through the Graduate Admission. Please upload all scanned or digital documents in PDF format.
+Select "Business Analytics and Information Systems MS (Global Online Program)" from the program list and "Spring 2022" as the semester in the application process.  Submit: 
+Transcripts of all prior college level degree/certificate/courses.
+Curriculum vitae with relevant work experiences.  Please mention the place of work,
+                  designation, start date, end date and project details. 
+Statement of purpose.
+Statement requesting waiver of GMAT / GRE
+GMAT or GRE or other standardized (e.g. MCAT, LSAT) score (if request of waiver is
+                  not submitted).
+Proof of English proficiency.
+To request GRE/GMAT or TOEFL waiver, contact the program directors. 
+Students are admitted to the Master of Science in Business Analytics and Information
+               Systems program based on the evaluation of their application in its entirety.
+The USF Graduate School application fee is $30.
+Financial Aid
+Students are encouraged to explore tuition assistance programs through their employer
+               prior to applying for federal tuition assistance. Providing educational benefits and
+               reimbursements to employees is one way organizations are helping support the continuing
+               education of their employees.
+Students may also apply for a federal education loan through USF's Financial Aid website.
+Graduate students are eligible for Federal Direct Unsubsidized Loans. More information about these loans can be found here.
+Post 9-11 GI bill for veterans
+USF Ranked #4 in the Nation for Best Colleges for VeteransThe Post 9-11 GI Bill covers a large amount of the tuition and program fees for this
+               program. The USF Veterans Service office serves veterans, active duty service personnel and members of the Selected Reserve,
+               as well as the dependents of veterans who are eligible for benefits. This office can
+               also offer guidance regarding educational benefits eligibility and assistance with
+               forms and forwarding of documentation to the VA. Find out more information on its website.
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility
+Faculty | Global MS in Business Analytics and Information Systems | USF Muma College of Business
+Skip to Main Content
+University of South FloridaMuma College of BusinessTampa | St. Petersburg | Sarasota-Manatee
+Show 
+Search
+Search for: 
+Main Navigation
+Show Menu
+Give Now
+Undergraduate
+Graduate
+Schools
+Centers
+About Us
+Faculty Tools
+MyUSF
+Directory
+Online Global Master of Science - Business Analytics & Information Systems
+Skip Over Breadcrumbs and Secondary Navigation
+Breadcrumb Navigation
+Muma College of Business
+Graduate
+Online Global Master of Science - Business Analytics & Information Systems
+Faculty
+Show  Secondary Navigation
+Overview
+Schedule
+Tuition/Financial Aid
+Frequently Asked Questions
+REQUEST INFORMATION
+APPLY NOW
+Faculty
+Students
+Newsletter
+Faculty
+Faculty
+Course
+Tom Stablein
+Advanced System Analysis and Design
+Hans Reichgelt
+Advanced Database Management
+Ron Satterfield
+Analytical Methods for Business
+Priya Dozier
+Bhuvan Unhelkar
+Enterprise Information Systems Management
+Clinton Daniel
+Distributed Information Systems
+Kiran Garimella
+Data Mining
+Varol Kayhan
+Data Science Programming
+Kaushik Dutta
+Big Data for Business Applications 
+Anol Bhattacherjee
+Daniel Zantedeschi 
+Statistical Data Mining
+University of South Florida
+Show Menu
+About USF
+Academics
+Admissions
+Locations
+Campus Life
+Research
+Administrative Units
+Regulations & Policies
+Human Resources
+Work at USF
+Emergency & Safety
+Title IX
+College Mission
+College Accreditation
+College Points of Pride
+College Annual Report
+College Metrics
+College Policies
+4202 E. Fowler Avenue,  BSN 3403, Tampa, FL 33620, USA813-974-4281
+Facebook
+Twitter
+YouTube
+LinkedIn
+Flickr
+Instagram
+Copyright © 2023, University of South Florida. All rights reserved.
+This website is maintained by Muma College of Business.
+Privacy
+Contact USF
+Visit USF
+Accessibility

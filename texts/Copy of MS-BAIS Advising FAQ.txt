@@ -1,0 +1,155 @@
+MS-BAIS Advising FAQ
+How does the MS-BAIS program work?
+
+The program requires a minimum of 33 credits, which must include 5 core classes, 3 MS-BAIS electives and 3 additional electives from our department or other departments if they are 6000 level courses relevant to the major. Most of these classes are 3 credits each. In addition, you can also take MS-BAIS internships and independent study, which are 1-2 credit courses and those courses will also count toward your 33 credit degree requirements.
+
+Before registering for any out-of-department electives, please consult Dr. Johannes Reichgelt to make sure that this course would count toward your degree requirement. For non-departmental courses, you will need a permit from that department.
+
+ 
+
+What are the different core and elective course options that I have for my MS-BAIS degree?
+
+MS-BAIS core classes:
+
+ISM 6124: Advanced Systems Analysis & Design (Prerequisite: Systems Analysis & Design or equivalent professional knowledge)
+ISM 6218: Advanced Database Management (Prerequisite: Database Design/Management or equivalent professional knowledge)
+ISM 6225: Distributed Information Systems (Prerequisite: Object-Oriented Programming or equivalent professional knowledge)
+QMB 6304: Analytical Methods for Business (Prerequisite: One prior course on inferential statistics at undergraduate or graduate level)
+ISM 6155: Enterprise Information Systems Management (MS-BAIS capstone)
+NOTE: In order not to jeopardize your chances to graduate on time, it is crucial that you complete the core courses as early as possible.  We have had a number students who did not take core courses when they were available, and then had to postpone their graduation.  This is particularly problematic for international students who have to maintain a full course load and therefore may have to take more courses than is strictly necessary to complete their program.
+
+MS-BAIS electives:  
+
+We have many electives. This is a partial list of approved electives in no particular order. Refer to our course catalog for a complete list.
+
+ISM 6136: Data Mining
+ISM 6419: Data Visualization
+ISM 6137: Statistical Data Mining (Prerequisite: QMB 6304)
+ISM 6251: Data Science Programming (Prerequisite: ISM 6136)
+ISM 6208: Data Warehousing (Prerequisite: ISM 6218)
+ISM 6562: Big Data for Business (Prerequisite: ISM 6225)
+ISM 6328: Information Security & Risk Management
+ISM 6156: ERP & BPM
+ISM 6316: Project Management
+ISM 6930: Text Analytics (Prerequisite: ISM 6251)
+ISM 6577: Business Continuity and Recovery Planning
+ISM 6945: BAIS Internship (1 credit for both full-time and part-time internships, max 3 credits for 3 semesters)
+ISM 6905: Independent Study (1 or 2 credits)
+Prerequisites for any class must be completed in a PREVIOUS semester. Concurrent enrollment in a class AND its prerequisite in the same semester is not allowed. If you need help with prerequisites, please e-mail Dr. Reichgelt.
+
+ 
+
+Are there any ISM/QMB classes that can't be used towards graduation?  
+
+Yes. Classes that can't be used as MS BAIS electives include any undergraduate class, most 2 or 3 credit MBA courses or MBA sections of MS-BAIS courses such as ISM 6930-Data Analytics for Business, QMB 6305, QMB 6358, QMB 6603,  ISM 6021, ISM 6123 (Fund of Data Mgmt & Analysis),  ISM 6436,  ISM 6217. Some other graduate College of Business classes may be ineligible.  Please contact Dr. Johannes Reichgelt if you plan to register for any of these courses or have any questions in this regard.
+
+ 
+
+How many credits can I register for?  
+
+There is a limit to the number of courses you can register for.  In the regular semesters, i.e. Fall and Spring, you can register for at most 4 courses (12 credits).  In the Summer, you can register for at most 2 courses (6 credits).  There are additional rules that apply when you have a full-time internship and these rules are explained in the CPT module.  USF insists that you enroll for at least 2 credits in your graduating semester.  This includes the Summer semester.
+
+The Lean Six Sigma course counts towards the 12 credits if you take in the Spring, but not if you take it in the Fall.  The Spring course is in the middle of the semester; the fall course is offered before the Fall semester starts.
+
+ 
+
+How can I register for alternate calendar classes? 
+
+Use this link: https://www.usf.edu/registrar/register/altcalendar.aspxLinks to an external site. 
+
+Contact the registrar's office at 974-2000 for if you have concerns about late add fees.  You should be able to drop alternate classes during the first scheduled week without penalty, but again - this is the registrar's domain, so always check with them to confirm.
+
+ 
+
+Some courses require a permit.   How do I get one? 
+
+If you look up the course on https://usfweb.usf.edu/DSS/StaffScheduleSearchLinks to an external site., you will see link in the description of the course.  Click that link and complete the form that comes up.  Please do NOT email the professor for the course.  They cannot issue permits.
+
+ 
+
+What delivery modes are courses offered in, and how can I find out the delivery mode of a course?
+
+We offer courses in three different modes:
+
+Face-to-face
+Asynchronously online
+Synchronously online
+The difference between the latter two is that the latter will require synchronous meetings via Teams, whereas the former does not.   
+
+If a course section in https://usfweb.usf.edu/DSS/StaffScheduleSearchLinks to an external site. has both a time associated with it and a classroom, it is a face-to-face course.  Online courses will always have Off-Campus in the Campus field.  Synchronous online courses will contain a note that gives the dates on which the classes meet.  If there is no such note, the class is asynchronous, even though the Time field will say TBA.  The system will not allow us not to put a time in that field.  
+
+Notes:
+
+The Off-Campus note is likely to be followed by the name of a campus (e.g., Off-Campus - Tampa, or Off-Campus - Sarasota-Manatee).  Ignore the name of the campus.  This is included for internal financial purposes and does not affect how the course is delivered.
+Online courses are a little more expensive than face-to-face courses.  USF charges an additional fee for online courses.  At the moment, the charge is $30.
+ 
+
+How do registration wait-lists work at USF?  
+
+Please see:  http://www.usf.edu/registrar/resources/waitlistLinks to an external site. Please do not place yourself on more than one waitlist for the same course. If you do, we will remove you from all waitlists for that course.
+
+ 
+
+Can I take all my classes online?  
+
+From Fall 2023 onwards, international students can take at most one course online, and must take all their other courses on campus.  CPT internships and independent study courses count as on-campus courses.
+
+
+How do I know which classes will be offered next semester?  
+
+You can see courses offered in future semesters by using USF staff searchLinks to an external site., but keep in mind that this is a tentative schedule that is subject to change. The final course schedule will be available 1-2 months before the start of the semester.
+
+ 
+
+What courses are offered in summer?
+
+Most of our students do internships in summer. Hence, we have relatively few course offerings in the summer. Most elective classes, and well as many core classes, are not offered in summer. We may also cancel classes that have very few students. Hence, if you plan to graduate in summer, plan your coursework carefully to ensure that you can register for the classes you need to graduate in summer. 
+
+ 
+
+How do we register for the Lean Six Sigma class? 
+
+The Lean Six Sigma class is usually offered the week before the start of the Fall semester but is considered an alternate calendar fall class.  It's also frequently offered in the spring, during the week of spring break.  A permit is needed to register (see the link in the schedule search) and tuition waivers don't cover this class.
+
+ 
+
+What is reduced course load (RCL) and how do I apply for it? 
+
+Reduced course load (RCL) through International Student Services when you are taking fewer than 9 credits. International students are allowed to do this ONLY in their graduating semester.  You must apply for RCL at the International Student Services office; include Dr. Reichgelt (reichgelt@usf.edu) as the "approver" in this application. Send him an e-mail informing him of which courses you want to take in the RCL semester.   
+
+If you have a full-time CPT internships, this counts as a full course load and you don't need an RCL.  Part-time internships are NOT eligible for RCL unless it is the student's last semester at USF.
+
+ 
+
+How do I apply for and receive my Graduate Certificate in Analytics and Business Intelligence? 
+
+Apply online at https://www.usf.edu/innovative-education/graduate-certificates/how-to-apply/application-process.aspxLinks to an external site..   
+The Analytics and Business Intelligence Graduate Certificate  information (code: XIN) can be found at http://catalog.usf.edu/preview_program.php?catoid=9&poid=2813&returnto=996Links to an external site. 
+Contact Karen Carlin at karencarlin@usf.edu with any questions.
+ 
+
+How do I graduate from the BAIS program? 
+
+You have to apply for graduation in your final semester at USF. The link to sign up for graduation is http://www.usf.edu/registrar/resources/graduation.aspxLinks to an external site.. This link also has information on commencement.  This is the registrar's site, so if you have specific questions, please contact them at 974-2000.
+
+To be eligible for graduation, you must have:
+
+Completed all program prerequisites before the start of your graduating semester. 
+Be enrolled in at least 2 credits your graduating semester.
+Successfully completed at least 33 credits (5 core classes, 3 ISM electives, 3 ISM or approved electives).
+Have a program and cumulative GPA of at least 3.0 (B).
+Have a C or better in every class.  Any class grade that is a C- or below will not count towards your degree. 
+Not have any I (incomplete) or M (missing) grades.
+No more than 6 independent study credits will count towards your required 33 credits.
+If you are an international student, please review the International Student Services policies on in-class and online courses.  ISS has informed us that if you have completed all courses for a degree, you cannot continue taking extra courses over and above the ones that you need to graduate.  In other words, if you are an international student, if you can graduate, you must graduate.
+ 
+
+I was admitted to the MS MIS program but would like my diploma to read MS-BAIS. Can I get my program changed?  
+
+Yes, you can.  Follow these steps:
+
+Download the Change of Program form at http://www.grad.usf.edu/inc/linked-files/GRADUATE_SCHOOL_Chg_of_Program_Application.pdfLinks to an external site. 
+Look at this sample copy: Degree Change to BAIS.pdf Download Degree Change to BAIS.pdf,  and fill in the forms as noted. USE the current semester instead of 'Fall 2016' on the form.
+International Students, get ISS to sign the form (top right corner)
+Bring the completed form to me and I'll approve it & send it to the College of Business who will approve and upload the form to Office of Graduate Studies system so they can approve it and change your program. 
+Keep checking your status on Oasis to see when your program changes.

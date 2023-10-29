@@ -1,0 +1,70 @@
+Course Registration
+Searching for classes and current enrollment:
+
+You can search on Oasis, but the staff schedule search is an easier interface to use. Visit http://www.registrar.usf.edu/ssearch/staff/staff.phpLinks to an external site. (Links to an external site.) Please make sure that you read the description of the course carefully.  Some courses are only available to students who are enrolled in specific programs, such as the Global BAIS or the Online MBA, and if you are not enrolled in these programs, you will not be eligible to register for these courses.
+
+
+If you need to register for an alternate calendar course, you can use the alternate calendar link:  https://www.usf.edu/registrar/register/altcalendar.aspxLinks to an external site. (Links to an external site.).  If this doesn’t work, email Dr. Reichgelt (muma-msbais@usf.edu) or contact the Registrar’s office at 974-2000.
+
+ 
+
+Course sequencing & prerequisite checks:
+
+As described in the catalogLinks to an external site., certain classes have course prerequisites (e.g., ISM 6124 Advanced Systems Analysis and Design and ISM 6218 Advanced Database Systems are both prerequisites for ISM 6155 Enterprise Information Systems Management).  In general, you cannot directly register for the advanced classes without completing the prerequisites in a prior semester. Note that concurrent enrollment in prerequisite and advanced classes is not allowed.  
+
+In addition, certain core MS-BAIS classes like Advanced Database Management have pre-program prerequisites such as a database prerequisite, which can be met by virtue of a prior course in database management from your previous university or adequate working experience with databases in a corporate environment. Similarly, there are prerequisites for Advanced Systems Analysis & Design and Distributed Information Systems. If you don't meet these core prerequisites, you will have to register for basic courses in these areas at USF and these courses will NOT count toward the 33-credit MS-BAIS degree requirement. If you are unsure which prerequisites you need, email Dr. Reichgelt (muma-msbais@usf.edu) with your U# and USF email address and request a prerequisite check.  Every new student must have their prerequisites checked and any outstanding prerequisites should be completed by the end of your first semester.
+
+The following are the required pre-program prerequisites:
+
+Database prerequisite >> prerequisite for >> ISM 6218 Advanced Database Management.
+Systems analysis & design prerequisite >> prerequisite for >> ISM 6124 Advanced Systems Analysis & Design 
+OOP prerequisite >> prerequisite for >> ISM 6225 Distributed Information Systems 
+Stats prerequisite >> prerequisite for > QMB 6304 Analytical Methods for Business
+In addition, we strongly suggest that you take courses in a specific sequence.  Past experience has shown that students who have not taken the courses in the suggested sequence are less successful.
+
+Take ISM 6124 Advanced Systems Analysis & Design before you take ISM 6208 Data Warehousing. 
+Take ISM 6225 Distributed Information Systems before you take ISM 6562 Big Data for Business Applications. 
+Take QMB 6304 Analytical Methods for Business  before you take ISM 6137 Statistical Data Mining. 
+Take ISM 6136 Data Mining before you take ISM 6251 Data Science Programming before you take ISM 6564 Text Analytics or ISM 6930 Technical Foundations of AI
+NOTE 1: We have been a bit lax in enforcing prerequisites.  Starting in the Fall of 2023, we will strictly enforce prerequisites and remove students from courses if they have not met the prerequisites.
+
+NOTE 2: With the increase in enrollment in the program, we cannot guarantee that we can offer the core courses (see next page) in every semester.  You should therefore take a core course whenever it is available and you are eligible to take it.  If you do not, you may not be able to graduate on time.
+
+ 
+
+Electives:
+
+We have a wide range of departmental and non-departmental electives for you to choose from to enrich your learning experience at USF. Note that you must complete 9 credits of departmental (BAIS) electives and another 9 credits of BAIS and/or non-BAIS electives for your MS-BAIS degree. Non-departmental electives must be pre-approved by Dr. Reichgelt before you register in those courses, and may require a permit from the corresponding department. Departmental electives must satisfy prerequisites as described above.
+
+Any USF class may not count as "electives" for your 33-credit MS-BAIS degree. Classes that won't count include any undergraduate class, most 2 or 3-credit MBA courses such as ISM 6930 (Data Analytics for Business), QMB 6305, QMB 6358, QMB 6603, ISM 6021, ISM 6123, ISM 6436, ISM 6217, and many other Muma College of Business classes.
+
+Any classes out of our program MUST be preapproved by the SISM department before you can register for it and expect it to count toward your degree requirement. Contact Dr. Reichgelt (muma-msbais@usf.edu) for assistance with selecting electives that will count toward your degree.  The following non-BAIS course have already been pre-approved:
+
+EEL 6787: Data Networks, Systems and Security
+ 
+
+FIN 6406 Financial Management
+FIN 6246 The Financial System and FinTech Innovation
+FIN 6416 Advanced Financial Management
+FIN 6455 Financial Modeling and Analytics
+FIN 6465 Financial Statement Analysis
+FIN 6515 Quantitative Investments
+FIN 6605 International Financial Management
+FIN 6778 Quantitative Analytics for Finance
+FIN 6779 FinTech and Payment Technologies
+ 
+
+GEB 6527: Lean Six Sigma
+ 
+
+MAN 6055: Organization Behavior and Leadership
+MAN 6121: Emotional & Social Intelligence at Work
+MAN 6218: Organizational Change & Development
+MAN 6601: International Management
+ 
+
+Adding & dropping courses:
+
+You can add/drop any course without penalty during the first week of class. After the first week, if you add/drop courses, you will not get a full tuition refund for the course that you dropped, and adding/dropping is not allowed at all after a certain point in time during each semester. Please check our course schedule for add/drop dates.
+
+If you want to add/drop classes after the first week of class, use DocuSign to get your drop/add/petitions forms signed.  Please read Routing a form through DocuSign.pdfDownload Routing a form through DocuSign.pdf.. If you are unsure who to include in your approval routing, please contact Dr. Reichgelt (muma-msbais@usf.edu).

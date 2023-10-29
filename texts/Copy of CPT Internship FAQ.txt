@@ -1,0 +1,75 @@
+CPT Internship FAQ
+1. How can I find an internship?
+
+USF is using Handshake to help students find internships and full-time positions.  
+
+To register and search openings go to https://usf.joinhandshake.com/loginLinks to an external site.Links to an external site.
+
+Sample search terms to use: Information systems, business analytics, data analytics, data science, programming, tech support, etc. 
+For help on using the system,  you can go to https://support.joinhandshake.com/hc/en-usLinks to an external site..  
+
+ 
+
+2. Can I do an internship in any semester (Summer, Fall, and Spring)?
+
+Yes, as long as you meet the requirements of the internship (minimum two semesters of prior full-time coursework, have a minimum GPA of 3.0, course prerequisites, etc.) and your internship is approved by us. Furthermore, your internship may be full-time or part-time, and you can do it for a maximum of 364 days.
+
+ 
+
+3. If I'm working for a company and am paid by the company, why do I need USF's authorization to do a CPT internship and why am I paying USF for a 1-credit class for the internship?
+
+International students on F1 student visa are NOT allowed to work off-campus (or even on-campus for more than 20 hours/week) as a condition of your F1 visa. The only way in which you can work for an employer is if we (USF) authorize that this "work" is related to the learning process (practical training) for which you are enrolled at USF. We must demonstrate to USCIS that your "work" is relevant to our curriculum. Hence, internships are considered to be practicuum courses (ISM 6945), and you will have to register and pay for this 1-credit internship course before you can join the internship, and submit a report at the end of the semester to receive a grade for that course. Since USF courses are structured on a semester basis, if your internship spans two semesters, you have to register separately and pay tuition for each of the two semesters for which you are doing the internship.
+
+ 
+
+4. Can I change my CPT employer after accepting a prior offer from a different employer?
+
+No. iStart does not allow that. It also inconveniences the employer, brings disrepute to our university, and hurts our chances of securing internships for future students. If you do not like the terms or pay of your first CPT employer, do not accept their offer and wait for the next employer. But you are not allowed to play games like accept one offer and ask for a change when you get a better offer, or try to negotiate a better paying offer by using one CPT employer against another. If such situations come to light, we may penalize you by not approving any of your CPT applications for that semester and/or by revoking a previously approved CPT application. A CPT internship is NOT a job that you can flip as often as you want. It is a course and if you want an internship, then you must respect the rules and meet the obligations of the course. A CPT internship is a privilege provided to international students by USCIS, and we will not allow any abuse of this privilege.
+
+ 
+
+5. Can I do a CPT internship and also do an on-campus job in the same semester? (Links to an external site.)
+
+Current immigration interpretation by the Student Exchange Visitor Program (SEVP) does not address concurrent CPT and on-campus employment. But USF Office of International Services recommends that students who engage in concurrent CPT and on-campus employment limit the total employment to 20 hours/week during Fall and Spring. In light of this recommendation, we will not approve of concurrent CPT and on-campus employment during Fall or Spring semesters for a total of more than 20 hours/week. If a situation comes to light where a student is doing 20 hours or more of internship and also doing an on-campus job anywhere on USF campus, we will pull the student's internship for that semester and give that student an U grade for the internship course for violating our internship policies.
+
+ 
+
+6. Can I do a full-time (40-hour/week) internship and also register for classes at the same time?
+
+Yes, you can, but in such cases, we made a decision to limit course enrollment to a maximum of 2 additional 3-credit courses.  Note that you must register for at least 2 credits during Fall or Spring semesters, even with a full-time internship, in order to maintain part-time student status.
+
+ 
+
+7. How many credit hours of coursework do I have to register for if I'm doing internship in a given semester?
+
+This depends on the semester and the number of hours per week of internship. If it is a summer semester, you do not have to register for any courses except the 1-credit internship course, irrespective of whether the internship is full-time or part-time. In Fall or Spring semesters, if you are doing a part-time internship, then you have to maintain full-time student status by registering for at least 9 credit hours of graduate classes. If you are doing a full-time internship in a Fall or Spring semester, the full-time internship is viewed as equivalent of full-time, on-campus enrollment, but you still have to maintain part-time student status, which means at least 2 credits of enrollment that semester (including the 1-credit internship course). Note that both full-time and part-time internships are 1 credit per semester. 
+
+ 
+
+8. I registered for classes full-time (9 credit hours or more) and later on during the semester, I got an internship offer. The employer gave me a joining date in the middle of the semester. Can I join this internship?
+
+If you have a full-time course load, you cannot do a full-time internship (more than 20 hours) during that semester.  In such case, you will have to inform your employer that your internship will be a maximum of 20 hours, and your offer letter must state that.  The only exception is if you were registered for 3 courses, and one of the three courses runs over the first half of the semester so that you have completed it by the time the internship starts.  In that case, we will allow you to do a full-time internship.
+
+ 
+
+9. Why was my internship application declined by the MS-BAIS director?
+
+We do not approve incomplete or hastily completed incorrect applications. If you do not follow proper instructions, your application will be rejected. Some common reasons for rejection are:
+
+Incomplete application (e.g., you did not include the date with your signature or omitted nature of study).
+Your "nature of study" was the first few words of an incomplete sentence that was copied from someone else's internship application (e.g., "I am excited to apply the learnings of the above courses...") and not what YOU would actually do in YOUR OWN internship.
+You used the wrong section/CRN that did not align with your internship dates.
+Your internship dates did not match with the dates on your offer letter.
+Your offer letter was not included with your application.
+Even if your current internship is a continuation of a previous internship, ALWAYS check the rules before filing any internship application, because USCIS rules and procedures may have changed, and DOUBLE CHECK your application for completeness and correctness.
+
+ 
+
+10. My internship application was approved by the MS-BAIS director but my iStart application was delayed or not approved. Why?
+
+If you do not follow proper instructions, your application will be stalled even after approval. Common reasons for delay or non-approval:
+
+You did not include the right people in the CC: fields of your CPT internship application (Docusign form). This would mean that your internship application was approved but not properly archived for further processing.
+You had the wrong approver on your iStart application, which will route your application to the wrong person.
+Many other reasons that we can't possibly anticipate.
+Not reading and following ALL internship procedures as stated on this MS BAIS Org Canvas site will inevitably lead to internship rejection or delay. DOUBLE CHECK your application for completeness and correctness before submitting. In addition, please start your internship 1-2 WEEKS before the start of the semester to ensure that your application is processed on time. If your internship starts tomorrow and if you send us your application today, you can't expect us to drop all our work and process your application on an urgent basis so that you can start your internship tomorrow. 

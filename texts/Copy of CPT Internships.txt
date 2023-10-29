@@ -1,0 +1,68 @@
+CPT Internships
+What are CPT internships?
+
+Curricular Practical Training (CPT) are training/learning opportunities related to your curriculum (business analytics & information systems) in real-world businesses. These internships may be paid or unpaid, on-site or remote, full-time (more than 20 hours/week) or part-time (20 hours or less  per week), and can be done in any semester of the year (Summer, Fall, or Spring). There are different course registration requirements for full-time vs. part-time internships, so read on below. Note that we do not authorize unpaid internships, and we also do not approve internships that are unrelated to your curriculum (e.g., internships in finance or marketing).
+
+CPT internships are not required to graduate from the BAIS program, but are strongly encouraged, as they are an opportunity for you to showcase your skills in a professional workplace and build domain knowledge, which are both invaluable in securing employment after graduation, and they provide you with an additional source of income. We have seen numerous instances where internship employers offered their interns full-time positions upon graduation.
+
+Also note that CPT internship is NOT a job; it's a learning opportunity related to your curriculum outside of traditional class lectures, or in other words, it is a practicum course (ISM 6945: BAIS Internship; 1 credit). Hence, we must certify your internship as part of your curriculum and must ensure that you learned some curriculum-related practical knowledge/experience from that internship. For this reason, CPT internships will also require you to sign up for the BAIS internship course (ISM 6945), specify which other BAIS courses helped you build the skills needed for this internship, and meet the requirements of this course (e.g., first day attendance, end-of-term project report, etc.). At the end of the semester, you will get a Satisfactory/Unsatisfactory (S/U) grade in the course. You need a satisfactory grade to receive credit for this course as part of the 33-credit requirement for the BAIS degree. Note that both full-time and part-time internships are 1-credit per semester.
+
+ 
+
+Who is eligible for CPT internships?
+
+CPT internships at USF are now administered by the student's major department, which in your case, is the School of Information Systems & Management (SISM). Any student who meets the following criteria is eligible to do a BAIS internship.
+
+1. Complete two semesters (Fall and Spring) of full-time coursework in residence. Students entering in Fall are eligible for internship in their first summer. However, students entering in Spring who have completed only one semester of coursework in Spring are NOT eligible for summer internship in their first summer at USF (sorry, but this is a USCIS ruling over which we have no control).
+
+2. Complete the following two courses before applying for an internship: (a) QMB 6304 (Analytical Methods in Business) and (b) ISM 6218 (Advanced Database Management). Most students take these classes in their first semester in the BAIS program. However you still have to complete the two-semester residency requirement before you are eligible for CPT internships.
+
+3. Maintain a GPA of 3.0 or higher. If your GPA falls below this level, then you are on academic probation. We will need to work with you to create an action plan to improve your grades so that you can graduate on time. During this time, we will not allow you to be distracted by internships, GA/TA-ship, or other activities.
+
+NOTE: If you are an international students, and you have completed all the requirements for the program, you cannot apply for an internship unless you also register for another course.  In other words, you cannot postpone your graduation by enrolling for an internship alone.
+
+ 
+
+What are the rules and restrictions on doing CPT internships? 
+
+Internships may be full-time or part-time. You are allowed to do full-time or part-time internships for a maximum of 364 days. Exceeding this limit will disqualify you from participating in the Optional Practical Training (OPT) upon completion of your degree. If you are an international student, you will need those 18 months of OPT to transition from the F1 student visa to a H1B worker's visa. You are therefore allowed a maximum of 3 credits for CPT internships.
+
+For both full-time and part-time internships, you will have to register for the ISM 6945 (BAIS Internship) course for each semester that you do the internship, and demonstrate what curriculum-related knowledge you acquired from the internship. Because all USF courses (including ISM 6945) are organized by semesters, if you are doing an internship that starts in say July (Summer) and ends in September (Fall), then you will need to register for ISM 6945 twice: for Summer and then again for Fall, for this internship, and this internship will consume two of the three credit hours allowed for internships. You can use the same offer letter for both internship applications, but the application for each semester must be submitted and processed separately.
+
+CPT internship positions must be for at least 8 weeks. If you have a Summer internship that is say 6 weeks long, we will approve it only if it is also part of a Fall internship that is also at least 6 weeks in length. In this case, you must fill out two internship applications, for the Summer and Fall semesters, and take a 1 credit class in each semester.  
+
+We allow some flexibility in your start and end dates for internships. You can start your internship up to two weeks before the semester, as long as these dates don't overlap with a prior term, and end it up to two weeks after the end of the semester, except in your graduating (last) semester at USF. In your final (graduating) semester, you will not get the two-week grace period at the end of the semester, and your internship must be completed before the official end of that semester, for us to certify that you have completed all your degree requirements before the end of that semester to award you the MS-BAIS degree.
+
+You are not allowed to do an internship and hold a GA position in the same semester. You have to choose whether you want the internship or the GA position. We don't want to recruit you as a GA is you can't demonstrate your commitment to the GA position and will quit it the moment you get a more lucrative internship. We will not approve your internship request once you are on USF payroll for your GA job.
+
+You are also not allowed to do a full-time internship, independent study, and register for classes (online or in-person) in the same semester. This is to ensure that you spend adequate time and do a good job in whatever you registered in for that semester.
+
+ 
+
+What are the course enrollment requirements for doing full-time or part-time internships in a given semester?
+
+The course enrollment requirements vary based on whether you are doing a full-time or part-time internship, and whether you are doing this internship in Fall, Spring, or Summer semesters.
+
+For Summer semesters, there is no course enrollment requirement for full-time or part-time internship, except the 1 credit ISM 6945 course needed for that internship.  You do not need to register for any other courses but you can register for at most one other course.
+For Fall and Spring semesters, full-time internship is viewed as equivalent of full-time on-campus enrollment. But you still have to register for at least 2 credits to maintain student status. One of these credits is the 1-credit ISM 6945 (BAIS Internship) course, and the second credit (or more) can be an independent study or an online or in-person course. Note that we have very limited independent study projects, and even if you want to register for a full-time internship and a 1-credit internship in one semester, we may not be able to place you in an independent study course. In that case, you may have to register for a 3-credit course to fulfill the minimum 2-credit requirement. We have also made a decision to limit your course enrollment to a maximum of 6 credit hours if you are doing a full-time internship that semester.
+If you are doing a part-time internship in Fall or Spring semesters, international students must register for at least 9 credit hours of coursework (including the internship) to maintain full-time student status. This rule is relaxed for your last (graduating) semester, when you are allowed to register for less than 9 credit hours, to meet the 33 credit hour requirement for the MS-BAIS degree. If you wish to pursue this option, you will have to complete a Reduced Course Load (RCL) application with the Office of International Services before the start of the semester. The RCL rule does not apply for domestic students. See the RCL module in this course for further details.
+ 
+
+What process should be followed to do a CPT internship?
+
+1. Get an internship offer letter from a US company. This letter must state the name of the company, name of your supervisor, company location, your position/title, whether you will work on-site or remote, your assigned responsibilities, start and end dates of the internship, hours per week, and hourly wage rate that will be paid to you. 
+
+2. Complete the relevant internship form that is available from this module.
+
+Make sure you select Yes or No as to whether you are graduating that semester.
+Choose the course section that most closely aligns with your employment dates.
+Be sure to complete all parts, including the Nature of Study section. 
+Use DocuSign to create an envelope including your CPT internship form as the first page followed by your offer letter and set up the signatures and signing order as follows; (a) yourself, (b) BAIS director Dr. Anol Bhattacherjee (abhatt@usf.edu) (approver), (c) BAIS advisor Dr. Johannes Reichgelt (reichgelt@usf.edu) (receives a cc) and (d) Amy Saleh (amysaleh@usf.edu) (receive a cc). Sign AND DATE the document. Once you upload the form, it will automatically go to Dr. Bhattacherjee for approval. Incomplete forms (e.g., missing dates) will be declined and missing or wrong CC: fields will stall your application even after it is approved by Dr. Bhattacherjee.
+
+3. After the DocuSign is approved by Dr. Bhattacherjee, Dr. Reichgelt will issue you a permit for the 1-credit ISM 6945 course and send you an email.  Dr Reichgelt will not approve full-time internships if you are registered for more than 2 courses.  If you are already registered for more than 2 3-credit courses and you have a full-time internship, send an email to muma-msbais@usf.edu listing the courses you want to drop.  Register for the BAIS Internship course using Oasis.
+
+4.  After you have registered for the course, international students must use iStart to request Office of International Services (OIS) approval for off-campus work. Select Dr. Johannes Reichgelt (reichgelt@usf.edu) as the approver for this request (NOT Dr. Bhattacherjee). Again, incomplete or incorrectly filled applications may be declined, lost, or delayed. Also, do not send Dr Reichgelt a separate email asking him to approve the CPT.  He will do so, and does not need any additional prompting.  Domestic students can skip this step.
+
+5. Complete the requirements for the internship course. This includes a first week attendance assignment to stay in the course and an end of semester report submitted to Canvas for a S/U grade. Dr. Bhattacherjee is the instructor on record for this course. Contact him with any questions. 
+
+Please note that CPT internships are governed by USCIS rules that frequently change. SISM or BAIS faculty may not be up to date with these changing rules. Please visit the International Student Services  CPT FAQ page (Links to an external site.) or a to stay abreast of these rules and feel free to ask them questions.
