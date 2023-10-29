@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import pinecone
 from langchain.chains import ConversationChain
-from langchain.memory import ConversationSummaryMemory, ConversationSummaryBufferMemory
+from langchain.memory import ConversationSummaryMemory, ConversationKGMemory, ConversationSummaryBufferMemory, ConversationBufferWindowMemory, ConversationBufferMemory
 from langchain.callbacks import get_openai_callback
 from langchain.vectorstores import Pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
@@ -116,7 +116,7 @@ initialize_session_state() # initialize the history buffer that is stored in UI
 
 # create the Streamlit UI
 st.markdown("<img src='https://raw.githubusercontent.com/AkshayRamesh23/Chatbot/main/usf_muma_logo.png' width=250 height=60>", unsafe_allow_html=True)
-st.markdown("<strong style='font-size: 45px;'>Pinnacle ChatBot</strong>", unsafe_allow_html=True)
+st.markdown("<strong style='font-size: 30px;'>LangChain based ChatBot 🦜🔗</strong>", unsafe_allow_html=True)
 #st.markdown("<strong style='font-size: 45px;'>Pinnacle ChatBot</strong> <img src='https://raw.githubusercontent.com/AkshayRamesh23/Chatbot/main/usf_muma_logo.png' width=250 height=60>", unsafe_allow_html=True)
 chat_placeholder = st.container() # container for chat history
 prompt_placeholder = st.form("chat-form") # chat-form is the key for this form. This is used to reference this form in other parts of the code
