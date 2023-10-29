@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import pinecone
+from langchain.prompts.prompt import PromptTemplate
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationSummaryMemory, ConversationKGMemory, ConversationSummaryBufferMemory, ConversationBufferWindowMemory, ConversationBufferMemory
 from langchain.callbacks import get_openai_callback
@@ -8,6 +9,7 @@ from langchain.vectorstores import Pinecone
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chat_models import ChatOpenAI
 from dataclasses import dataclass
+from langchain.chains import ConversationalRetrievalChain
 from typing import Literal
 from dotenv import load_dotenv
 
@@ -39,15 +41,15 @@ def initialize_session_state():
     if "conversation" not in st.session_state:
         # create a connection to OpenAI text-generation API
         llm = ChatOpenAI(
-            temperature=0.2,
+            temperature=0,
             openai_api_key=os.environ["OPENAI_API_KEY"],
 #            max_tokens=500,
-            model_name="gpt-4",
+            model_name="gpt-3.5-turbo-16k",
             #model_name="gpt-4", 16k model for better strategy.
         )
 
-        memory = ConversationSummaryBufferMemory(llm=llm, max_token_limit=1000000)
-
+        memory = ConversationSummaryBufferMemory(llm=llm, return_messages=True)
+        
         st.session_state.conversation = ConversationChain(
             llm=llm,
             memory=memory,
@@ -56,11 +58,12 @@ def initialize_session_state():
 
 
 @dataclass
+
 class Message:
     """Class for keeping track of a chat message."""
     origin: Literal['human', 'ai']
     message: str
-    
+
 # when submit button is clicked, this function is called    
 def on_click_callback(): #called on click of submit button
     """Function to handle the submit button click event."""
@@ -76,11 +79,13 @@ def on_click_callback(): #called on click of submit button
             human_prompt,  # our search query
             k=7  # return relevant docs choosing k doesnot effect that.
         )
-        #exit()
+        #exit() 
         
         # create a prompt with the human prompt and the context from the most similar documents
         prompt = f"""
-            Your are a chatbot, when someone greets you greets them back. Then based on the question give the appropriate repsonse that is given in knowledge base at the end of questions related to MS BAIS program always mention that "for further inquiries please drop a mail to muma-msbais@usf.edu along with your U-number.".\n\n
+            Your are a chatbot, when someone greets you greets them back. Then based on the question give the appropriate detailed repsonse based on the knowledge base. At the end of questions, "only for those questions related to MS BAIS program always mention that for further inquiries please drop a mail to muma-msbais@usf.edu along with your U-number."
+            When someone asks question other then MS BAIS program do not ask them to drop mail to muma-msbais@usf.edu since this mail id is not for other things like housing, employment, immigration related informations.
+            Always structure your answers in point wise with appropriate details.\n\n
             
             Query:\n
             "{human_prompt}" \n\n                        
@@ -120,7 +125,7 @@ st.markdown("<strong style='font-size: 30px;'>LangChain based ChatBot 🦜🔗</
 #st.markdown("<strong style='font-size: 45px;'>Pinnacle ChatBot</strong> <img src='https://raw.githubusercontent.com/AkshayRamesh23/Chatbot/main/usf_muma_logo.png' width=250 height=60>", unsafe_allow_html=True)
 chat_placeholder = st.container() # container for chat history
 prompt_placeholder = st.form("chat-form") # chat-form is the key for this form. This is used to reference this form in other parts of the code
-debug_placeholder = st.empty() # container for debugging information
+#debug_placeholder = st.empty() # container for debugging information
 
 # below is the code that describes how each of the three containers are displayed
 
@@ -154,11 +159,9 @@ with prompt_placeholder: # this is the container for the chat input field
         on_click=on_click_callback,  # important! this set's the callback function for the submit button
     )
 
-debug_placeholder.caption(  # display debugging information
-    f"""
-    Used {st.session_state.token_count} tokens \n
-    Debug Langchain.coversation:
-    {st.session_state.conversation.memory.buffer}
-    """)
-
-
+#debug_placeholder.caption(  # display debugging information
+#    f"""
+#    Used {st.session_state.token_count} tokens \n
+#    Debug Langchain.coversation:
+#    {st.session_state.conversation.memory.buffer}
+#    """)
